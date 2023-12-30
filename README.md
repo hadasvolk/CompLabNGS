@@ -14,7 +14,7 @@ Our course is all about hands-on experience with NGS data analysis. You'll need 
 ## Course timeline
 | Week | Date | Topic | Slides | Data | Class/HW assignments |
 |:----:|:----:|:-----:|:------:|:----:|:---------------------|
-| 1 | 31/12/2023 | Introduction to NGS and Genomics | [Lecture 1](https://github.com/hadasvolk/CompLabNGS/blob/master/Slides/Lecture1.pdf) | | [Setting up your environment](https://github.com/hadasvolk/CompLabNGS/blob/main/0-SettingUp/SettingUp.md) |
+| 1 | 31/12/2023 | Introduction to NGS and Genomics | [Lecture 1](https://github.com/hadasvolk/CompLabNGS/blob/main/1-IntroToNGS/Lesson1.pdf) | | [Setting up your environment](https://github.com/hadasvolk/CompLabNGS/blob/main/0-SettingUp/SettingUp.md) |
 
 ## Roadmap to final grade of 100
 30 points - Class assignments
