@@ -9,9 +9,20 @@ Please use the *Issues* tab above to ask questions and report problems. Your que
 
 ## Setting up your environment
 
-Our course is all about hands-on experience with NGS data analysis. You'll need to set yourself up with a Unix-based environment. Please follow the instructions on [0-SettingUp]() for possible solutions to this task.
+Our course is all about hands-on experience with NGS data analysis. You'll need to set yourself up with a Unix-based environment. Please follow the instructions on [0-SettingUp](https://github.com/hadasvolk/CompLabNGS/blob/main/0-SettingUp/SettingUp.md) for possible solutions to this task.
 
 ## Course timeline
 | Week | Date | Topic | Slides | Data | Class/HW assignments |
 |:----:|:----:|:-----:|:------:|:----:|:---------------------|
-| 1 | 31/12/2023 | Introduction to NGS and Genomics | [Lecture 1](https://github.com/hadasvolk/CompLabNGS/blob/master/Slides/Lecture1.pdf) | | |
+| 1 | 31/12/2023 | Introduction to NGS and Genomics | [Lecture 1](https://github.com/hadasvolk/CompLabNGS/blob/master/Slides/Lecture1.pdf) | | [Setting up your environment](https://github.com/hadasvolk/CompLabNGS/blob/main/0-SettingUp/SettingUp.md) |
+
+## Roadmap to final grade of 100
+30 points - Class assignments
+* Starting on lesson 2
+* Two weeks to complete each assignment and submit via Moodle
+* Pass only - no partial credit
+* Must submit at least 8 assignments to pass the course
+
+70 points - Final project
+* Can be done in pairs
+* Submission deadline: 01.05.2024
