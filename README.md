@@ -19,6 +19,7 @@ Our course is all about hands-on experience with NGS data analysis. You'll need 
 | 3 | 14/01/2024 | NGS data quality control and pre-processing | [Lecture 3](https://github.com/hadasvolk/CompLabNGS/tree/main/3-QC/Lesson3.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/3-QC/data) | [Class assignment 2](https://github.com/hadasvolk/CompLabNGS/tree/main/3-QC/hw.md) |
 | 4 | 21/01/2024 | "Catching Up" week |
 | 5 | 28/01/2024 | Sequence mapping part I | [Lecture 4](https://github.com/hadasvolk/CompLabNGS/tree/main/4-Mapping1/Lesson4.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/4-Mapping1/data) | [Class assignment 3](https://github.com/hadasvolk/CompLabNGS/tree/main/4-Mapping1/hw.md) |
+| 6 | 04/02/2024 | Sequence mapping part II | [Lecture 5](https://github.com/hadasvolk/CompLabNGS/tree/main/5-Mapping2/Lesson5.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/5-Mapping2/data) | [Class assignment 4](https://github.com/hadasvolk/CompLabNGS/tree/main/5-Mapping2/hw.md) |
 
 ## Roadmap to final grade of 100
 30 points - Class assignments
