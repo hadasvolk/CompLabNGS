@@ -1,2 +1,4 @@
 *.fastq.gz filter=lfs diff=lfs merge=lfs -text
 3-QC/data/*.fastq.gz filter=lfs diff=lfs merge=lfs -text
+6-VariantCalling/data/SRR1569760_vs_S288C.HQ.sort.ba filter=lfs diff=lfs merge=lfs -text
+6-VariantCalling/data/SRR1569760_vs_S288C.HQ.sort.bam filter=lfs diff=lfs merge=lfs -text
