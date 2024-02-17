@@ -1,0 +1,5 @@
+NODE_14_length_166516_cov_37.805690	AUGUSTUS	gene	22648	23268	0.99	-	.	g3
+NODE_14_length_166516_cov_37.805690	AUGUSTUS	transcript	22648	23268	0.99	-	.	g3.t1
+NODE_14_length_166516_cov_37.805690	AUGUSTUS	stop_codon	22648	22650	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_14_length_166516_cov_37.805690	AUGUSTUS	CDS	22651	23268	0.99	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_14_length_166516_cov_37.805690	AUGUSTUS	start_codon	23266	23268	.	-	0	transcript_id "g3.t1"; gene_id "g3";

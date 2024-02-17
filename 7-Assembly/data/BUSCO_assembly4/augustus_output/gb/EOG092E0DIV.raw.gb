@@ -1,0 +1,58 @@
+LOCUS       NODE_19_length_158332_cov_37.014670_59426-62376   2951 bp  DNA
+FEATURES             Location/Qualifiers
+     source          1..2951
+     CDS             complement(1001..1951)
+                     /gene="g4.t1"
+BASE COUNT     879 a   567 c  502 g   1003 t
+ORIGIN
+        1 gaagagaaaa actgtctttg cgaattgcct cgtcaattga gtgggaacga ttcttgacta
+       61 ctgatttcag tgttattgtc gacttattcc agggacaata cgcctcacga ctaaaatgta
+      121 aagtctgtag tcatacctcg acaacatacc aaccttttac ggtgctgtca atccctattc
+      181 ctaaaaaaaa ttcccgaaat aatattacca ttgaagattg tttcagagag ttcaccaaat
+      241 gtgagaactt ggaggtggat gagcaatggt tgtgcccaca ttgtgaaaaa aggcagccct
+      301 ccacgaaaca attgacaata acgagattac cgaggaatct gatagtccat ttaaagagat
+      361 ttgataattt attaaacaaa aataatgact tcgtcatata cccttttttg ttggacttga
+      421 ctccattttg ggccaatgat tttgacgggg tttttcctcc aggtgttaat gacgatgaac
+      481 taccaataag gggacaaata ccacctttta agtatgaatt atatggtgta gcatgccact
+      541 ttggtacttt gtatggtggt cattatacag cctatgtgaa aaagggatta aagaagggat
+      601 ggctatattt tgatgatacc aaatataaac ctgtcaaaaa caaagccgat gcaattaact
+      661 ctaatgcata cgttttgttt tatcaccgcg tctacggtgt ttgattcatt tgaataaata
+      721 actgaaaacg attgtctata cacttttttt cccgttcaac atggcatatc attatttcca
+      781 tctaaggtca aagtaaaaaa ccctaaatac aaatgattta ttttaacggt aacaaacgaa
+      841 ctttttttta gaaggtgtaa agatgagatc acgcccagat tttgtcttcc tcctgtgcat
+      901 ctcttggatt gatgattttc ctttctacca taatacgtca tgaaaagtat gtaaatattt
+      961 atagcattac atatatcttt tatatgaaaa aaatcactca ttcccagtca tcatcgtcgt
+     1021 cgtcgtcgtc gtcgtcgtcg tcgtcgtcct tgctctcatc cttgttggcg aggccaacat
+     1081 ggtcactaac atctttcaat ccctcttgag acacagcaac tttcgtctct cctttagatt
+     1141 tgttgtcaac tactgcttct actttgtcat catcatcatc ttcttcttcg tcatcccact
+     1201 caacttcttt ttcctccgtt tccttttcct ttttggacaa tatttctttc cttttacttt
+     1261 ctttatctag aattttgttt ctttgtaaga aatagatgtg ccagaaatct ttatagctga
+     1321 ttttatgggg tacgatgtcg ttcattaatt tggagatatc tttgtcgccc tgtaaaatag
+     1381 aacatatctc ctcagttttt tcatccacgt caaacgggtc cagttgcaaa tccattttat
+     1441 tgtctaaata aaccgattta tctttagata atgtccttag ttcggcttct gttctatttc
+     1501 cacccacagc aatttcattt tctttcgaat tctcatcctt gtcattagag tcattttctg
+     1561 cagcattatc gaagctactg aagccagacc aaaaattctt agttttcatt ttgctccaat
+     1621 atgactgggc tagactttcc acgctgtgaa tgttctcgtc tagtttcttc aaatactttt
+     1681 gtgcagtctc tgtagtttca ttgctaattg gcaagttaat ctcaattccg tcatcttttt
+     1741 cgattactaa ctttttgaat gcacttgtag tcttttcata tcgtttattg acttcctctt
+     1801 ctaacttttg gaaggcccca tttgttttgt catctcggct ctgaagttcg ttattttcag
+     1861 tgttttctgt tgatccagtt tccttggtat gagagtcgtt tattttatca tcttcgatac
+     1921 aagctacttg ctcttcataa aagaattcca ttttatccta aaacgtcgaa gcaatggagc
+     1981 tcactagctg tacccttatg ttgtgttctt tttttgttgc atgacttctg ctaagtgctt
+     2041 tttatcatta atcaccgcta tttgatgtaa ggccaaaaaa aatgcgaaag aaaaaaagag
+     2101 actctgttaa gaaggaaagg agtaccaata taaactatgg gttcacaatt gctatgaata
+     2161 cccagttcac acatctagaa taagctatat gtatcaaaat gacactagtg actccgttac
+     2221 aattttcgac cgtacagcca aatttatata gaggatctta cccacgagaa atcaatctcc
+     2281 cattcctgag aacccttaga ttgaaataca tattatcttt gacaccagaa cctttgagca
+     2341 ctgatcctct aatggtaaag ttttgtgaag aaaataacat taagacaatt catataaaat
+     2401 gtcaaagtga aagaaaggca gacaagacca aacccaagat taaaaggaaa aagaaaacag
+     2461 ttcctattga atacgatgtt gtagtacgat gcgttaaatt tctgattgat aaagggcatt
+     2521 acccctgtta tatgcactgt acgaatggtg aattgataat atctctcgtg gtagcatgta
+     2581 tgagaaagtt ttcatattgg agtacggtat ccatactaaa tgagtttttg gtgtataatt
+     2641 ccagcatcaa cattcatgaa agaaatttca ttgaaaactt taactctgaa atcgaagttg
+     2701 acgatctgga tataaaggat aaagttccct ggattaccgt gcgatatatt gcaaggacag
+     2761 ccacagaatc aaaagatgag ttgcgtgttg atgatgctaa tgcgtctgaa aaagttgcaa
+     2821 gagtaagtag cgtgtcaaat tctttgccaa aactaaaatt tcatagtatg taaaattcag
+     2881 ggataaattc atataatatt ttgtaaagac agaagcttca gggtcaagtc ttagccgggc
+     2941 cctccagcat t
+//

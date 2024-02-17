@@ -1,0 +1,5 @@
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	gene	74487	75875	1	-	.	g4
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	transcript	74487	75875	1	-	.	g4.t1
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	stop_codon	74487	74489	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	CDS	74490	75875	1	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	start_codon	75873	75875	.	-	0	transcript_id "g4.t1"; gene_id "g4";

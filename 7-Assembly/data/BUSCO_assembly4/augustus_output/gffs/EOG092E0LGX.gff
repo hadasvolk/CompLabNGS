@@ -1,0 +1,7 @@
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	gene	74174	74764	0.99	-	.	g4
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	transcript	74174	74764	0.99	-	.	g4.t1
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	stop_codon	74174	74176	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	CDS	74177	74764	0.99	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	start_codon	74762	74764	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	protein_match	74222	74596	7.13	-	0	target "unknown_B[1..125]"; target_start 56; transcript_id "g4.t1"; gene_id "g4";
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	protein_match	74678	74752	3.17	-	0	target "unknown_A[1..25]"; target_start 4; transcript_id "g4.t1"; gene_id "g4";

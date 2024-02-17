@@ -1,0 +1,5 @@
+NODE_3_length_358462_cov_38.441710	AUGUSTUS	gene	212404	212868	0.95	-	.	g5
+NODE_3_length_358462_cov_38.441710	AUGUSTUS	transcript	212404	212868	0.95	-	.	g5.t1
+NODE_3_length_358462_cov_38.441710	AUGUSTUS	stop_codon	212404	212406	.	-	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_3_length_358462_cov_38.441710	AUGUSTUS	CDS	212407	212868	0.95	-	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_3_length_358462_cov_38.441710	AUGUSTUS	start_codon	212866	212868	.	-	0	transcript_id "g5.t1"; gene_id "g5";

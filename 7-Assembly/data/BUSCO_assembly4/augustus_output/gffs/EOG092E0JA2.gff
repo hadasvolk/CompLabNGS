@@ -1,0 +1,9 @@
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	gene	20060	20929	0.99	-	.	g2
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	transcript	20060	20929	0.99	-	.	g2.t1
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	stop_codon	20060	20062	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	CDS	20063	20929	0.99	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	start_codon	20927	20929	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	protein_match	20090	20230	6.31	-	0	target "unknown_D[1..47]"; target_start 233; transcript_id "g2.t1"; gene_id "g2";
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	protein_match	20234	20521	7.87	-	0	target "unknown_C[1..96]"; target_start 136; transcript_id "g2.t1"; gene_id "g2";
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	protein_match	20525	20605	6.42	-	0	target "unknown_B[1..27]"; target_start 108; transcript_id "g2.t1"; gene_id "g2";
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	protein_match	20855	20929	3.14	-	0	target "unknown_A[1..25]"; target_start 0; transcript_id "g2.t1"; gene_id "g2";

@@ -1,0 +1,8 @@
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	gene	183183	183518	0.45	+	.	g4
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	transcript	183183	183518	0.45	+	.	g4.t1
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	start_codon	183183	183185	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	CDS	183183	183515	0.45	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	stop_codon	183516	183518	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	protein_match	183207	183347	5.07	+	0	target "unknown_A[1..47]"; target_start 8; transcript_id "g4.t1"; gene_id "g4";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	protein_match	183351	183425	5.06	+	0	target "unknown_B[1..25]"; target_start 56; transcript_id "g4.t1"; gene_id "g4";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	protein_match	183429	183488	5.15	+	0	target "unknown_C[1..20]"; target_start 82; transcript_id "g4.t1"; gene_id "g4";

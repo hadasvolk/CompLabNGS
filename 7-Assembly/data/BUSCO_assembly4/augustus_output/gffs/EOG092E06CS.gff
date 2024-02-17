@@ -1,0 +1,5 @@
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	gene	7551	9215	1	-	.	g4
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	transcript	7551	9215	1	-	.	g4.t1
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	stop_codon	7551	7553	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	CDS	7554	9215	1	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	start_codon	9213	9215	.	-	0	transcript_id "g4.t1"; gene_id "g4";

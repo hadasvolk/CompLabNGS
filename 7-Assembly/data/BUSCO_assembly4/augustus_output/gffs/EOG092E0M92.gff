@@ -1,0 +1,5 @@
+NODE_46_length_91379_cov_42.106763	AUGUSTUS	gene	25334	25681	1	-	.	g3
+NODE_46_length_91379_cov_42.106763	AUGUSTUS	transcript	25334	25681	1	-	.	g3.t1
+NODE_46_length_91379_cov_42.106763	AUGUSTUS	stop_codon	25334	25336	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_46_length_91379_cov_42.106763	AUGUSTUS	CDS	25337	25681	1	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_46_length_91379_cov_42.106763	AUGUSTUS	start_codon	25679	25681	.	-	0	transcript_id "g3.t1"; gene_id "g3";

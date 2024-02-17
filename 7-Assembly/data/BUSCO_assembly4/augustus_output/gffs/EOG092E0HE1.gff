@@ -1,0 +1,15 @@
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	gene	20582	21976	0.99	+	.	g2
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	transcript	20582	21976	0.99	+	.	g2.t1
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	start_codon	20582	20584	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	CDS	20582	21973	0.99	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	stop_codon	21974	21976	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	protein_match	20756	20785	6.81	+	0	target "unknown_A[1..10]"; target_start 58; transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	protein_match	20984	21052	3.95	+	0	target "unknown_B[1..23]"; target_start 134; transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	protein_match	21077	21172	5.06	+	0	target "unknown_C[1..32]"; target_start 165; transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	protein_match	21188	21253	7.14	+	0	target "unknown_D[1..22]"; target_start 202; transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	protein_match	21260	21415	6.44	+	0	target "unknown_E[1..52]"; target_start 226; transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	protein_match	21422	21466	5.62	+	0	target "unknown_F[1..15]"; target_start 280; transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	protein_match	21542	21646	4.52	+	0	target "unknown_H[1..35]"; target_start 320; transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	protein_match	21740	21781	5.78	+	0	target "unknown_J[1..14]"; target_start 386; transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	protein_match	21815	21892	5.16	+	0	target "unknown_K[1..26]"; target_start 411; transcript_id "g2.t1"; gene_id "g2";
+NODE_51_length_87655_cov_37.439829	AUGUSTUS	protein_match	21944	21967	6.53	+	0	target "unknown_L[1..8]"; target_start 454; transcript_id "g2.t1"; gene_id "g2";

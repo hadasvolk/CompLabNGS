@@ -1,0 +1,5 @@
+NODE_62_length_71708_cov_38.523691	AUGUSTUS	gene	8097	10469	1	-	.	g3
+NODE_62_length_71708_cov_38.523691	AUGUSTUS	transcript	8097	10469	1	-	.	g3.t1
+NODE_62_length_71708_cov_38.523691	AUGUSTUS	stop_codon	8097	8099	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_62_length_71708_cov_38.523691	AUGUSTUS	CDS	8100	10469	1	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_62_length_71708_cov_38.523691	AUGUSTUS	start_codon	10467	10469	.	-	0	transcript_id "g3.t1"; gene_id "g3";

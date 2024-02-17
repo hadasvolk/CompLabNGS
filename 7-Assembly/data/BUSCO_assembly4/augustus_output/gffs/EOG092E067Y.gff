@@ -1,0 +1,5 @@
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	gene	50321	52186	1	-	.	g3
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	transcript	50321	52186	1	-	.	g3.t1
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	stop_codon	50321	50323	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	CDS	50324	52186	1	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	start_codon	52184	52186	.	-	0	transcript_id "g3.t1"; gene_id "g3";

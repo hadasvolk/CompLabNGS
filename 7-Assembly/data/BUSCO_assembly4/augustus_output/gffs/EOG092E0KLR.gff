@@ -1,0 +1,5 @@
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	gene	126661	127245	0.99	-	.	g2
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	transcript	126661	127245	0.99	-	.	g2.t1
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	stop_codon	126661	126663	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	CDS	126664	127245	0.99	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	start_codon	127243	127245	.	-	0	transcript_id "g2.t1"; gene_id "g2";

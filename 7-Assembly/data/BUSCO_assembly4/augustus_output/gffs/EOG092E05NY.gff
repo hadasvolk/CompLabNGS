@@ -1,0 +1,15 @@
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	gene	163924	165744	0.99	+	.	g2
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	transcript	163924	165744	0.99	+	.	g2.t1
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	start_codon	163924	163926	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	CDS	163924	165741	0.99	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	stop_codon	165742	165744	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	164101	164175	2.6	+	0	target "unknown_B[1..25]"; target_start 59; transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	164284	164367	2.22	+	0	target "unknown_E[1..28]"; target_start 120; transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	164377	164427	3.42	+	0	target "unknown_F[1..17]"; target_start 151; transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	164443	164496	5.53	+	0	target "unknown_G[1..18]"; target_start 173; transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	164515	164622	4.91	+	0	target "unknown_H[1..36]"; target_start 197; transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	164623	164754	4.92	+	0	target "unknown_I[1..44]"; target_start 233; transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	164755	164895	4.1	+	0	target "unknown_J[1..47]"; target_start 277; transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	165106	165168	3.13	+	0	target "unknown_O[1..21]"; target_start 394; transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	165217	165270	3.35	+	0	target "unknown_Q[1..18]"; target_start 431; transcript_id "g2.t1"; gene_id "g2";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	165334	165372	3.04	+	0	target "unknown_S[1..13]"; target_start 470; transcript_id "g2.t1"; gene_id "g2";

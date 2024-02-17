@@ -1,0 +1,15 @@
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	gene	104989	106178	0.97	+	.	g3
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	transcript	104989	106178	0.97	+	.	g3.t1
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	start_codon	104989	104991	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	intron	105041	105123	0.97	+	.	transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	CDS	104989	105040	0.97	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	CDS	105124	106175	1	+	2	transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	stop_codon	106176	106178	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	protein_match	104989	105036	3.39	+	0	target "unknown_A[1..16]"; target_start 0; transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	protein_match	105375	105470	3.47	+	0	target "unknown_B[1..32]"; target_start 101; transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	protein_match	105540	105617	5.24	+	0	target "unknown_D[1..26]"; target_start 156; transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	protein_match	105666	105764	5.12	+	0	target "unknown_E[1..33]"; target_start 198; transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	protein_match	105765	105830	4.33	+	0	target "unknown_F[1..22]"; target_start 231; transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	protein_match	105855	105938	3.25	+	0	target "unknown_G[1..28]"; target_start 261; transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	protein_match	105945	106007	3.06	+	0	target "unknown_H[1..21]"; target_start 291; transcript_id "g3.t1"; gene_id "g3";
+NODE_20_length_155575_cov_37.679559	AUGUSTUS	protein_match	106008	106067	2.88	+	0	target "unknown_I[1..20]"; target_start 312; transcript_id "g3.t1"; gene_id "g3";

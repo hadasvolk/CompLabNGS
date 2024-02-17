@@ -1,0 +1,7 @@
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	gene	268752	270083	0.8	+	.	g3
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	transcript	268752	270083	0.8	+	.	g3.t1
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	start_codon	268752	268754	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	intron	269522	269692	0.96	+	.	transcript_id "g3.t1"; gene_id "g3";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	CDS	268752	269521	0.8	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	CDS	269693	270080	0.96	+	1	transcript_id "g3.t1"; gene_id "g3";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	stop_codon	270081	270083	.	+	0	transcript_id "g3.t1"; gene_id "g3";

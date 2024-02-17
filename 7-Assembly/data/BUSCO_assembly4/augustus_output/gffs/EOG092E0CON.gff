@@ -1,0 +1,15 @@
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	gene	151645	152679	1	+	.	g3
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	transcript	151645	152679	1	+	.	g3.t1
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	start_codon	151645	151647	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	CDS	151645	152676	1	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	stop_codon	152677	152679	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	protein_match	151645	151713	3.58	+	0	target "unknown_A[1..23]"; target_start 0; transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	protein_match	151732	151773	7.6	+	0	target "unknown_B[1..14]"; target_start 29; transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	protein_match	151774	151818	7.04	+	0	target "unknown_C[1..15]"; target_start 43; transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	protein_match	151819	151947	5.26	+	0	target "unknown_D[1..43]"; target_start 58; transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	protein_match	151951	151986	3.61	+	0	target "unknown_E[1..12]"; target_start 102; transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	protein_match	152071	152160	2.95	+	0	target "unknown_G[1..30]"; target_start 142; transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	protein_match	152230	152349	4.7	+	0	target "unknown_I[1..40]"; target_start 195; transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	protein_match	152374	152409	4.48	+	0	target "unknown_J[1..12]"; target_start 243; transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	protein_match	152449	152502	3.86	+	0	target "unknown_K[1..18]"; target_start 268; transcript_id "g3.t1"; gene_id "g3";
+NODE_10_length_202365_cov_37.197761	AUGUSTUS	protein_match	152506	152556	2.83	+	0	target "unknown_L[1..17]"; target_start 287; transcript_id "g3.t1"; gene_id "g3";

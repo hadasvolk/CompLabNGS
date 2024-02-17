@@ -1,0 +1,5 @@
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	gene	240090	242243	1	-	.	g3
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	transcript	240090	242243	1	-	.	g3.t1
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	stop_codon	240090	240092	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	CDS	240093	242243	1	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_2_length_376067_cov_37.491936	AUGUSTUS	start_codon	242241	242243	.	-	0	transcript_id "g3.t1"; gene_id "g3";

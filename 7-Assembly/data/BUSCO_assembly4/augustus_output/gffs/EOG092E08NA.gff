@@ -1,0 +1,7 @@
+NODE_100_length_31993_cov_36.639239	AUGUSTUS	gene	29923	31416	1	+	.	g3
+NODE_100_length_31993_cov_36.639239	AUGUSTUS	transcript	29923	31416	1	+	.	g3.t1
+NODE_100_length_31993_cov_36.639239	AUGUSTUS	start_codon	29923	29925	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_100_length_31993_cov_36.639239	AUGUSTUS	CDS	29923	31413	1	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_100_length_31993_cov_36.639239	AUGUSTUS	stop_codon	31414	31416	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_100_length_31993_cov_36.639239	AUGUSTUS	protein_match	30163	31080	9.29	+	0	target "unknown_A[1..306]"; target_start 80; transcript_id "g3.t1"; gene_id "g3";
+NODE_100_length_31993_cov_36.639239	AUGUSTUS	protein_match	31081	31413	10.5	+	0	target "unknown_B[1..111]"; target_start 386; transcript_id "g3.t1"; gene_id "g3";

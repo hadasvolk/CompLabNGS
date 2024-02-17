@@ -1,0 +1,5 @@
+NODE_17_length_162010_cov_37.467976	AUGUSTUS	gene	92565	92954	1	-	.	g5
+NODE_17_length_162010_cov_37.467976	AUGUSTUS	transcript	92565	92954	1	-	.	g5.t1
+NODE_17_length_162010_cov_37.467976	AUGUSTUS	stop_codon	92565	92567	.	-	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_17_length_162010_cov_37.467976	AUGUSTUS	CDS	92568	92954	1	-	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_17_length_162010_cov_37.467976	AUGUSTUS	start_codon	92952	92954	.	-	0	transcript_id "g5.t1"; gene_id "g5";

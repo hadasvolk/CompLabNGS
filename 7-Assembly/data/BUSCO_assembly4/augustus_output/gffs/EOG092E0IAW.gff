@@ -1,0 +1,5 @@
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	gene	21860	22684	1	-	.	g3
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	transcript	21860	22684	1	-	.	g3.t1
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	stop_codon	21860	21862	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	CDS	21863	22684	1	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	start_codon	22682	22684	.	-	0	transcript_id "g3.t1"; gene_id "g3";

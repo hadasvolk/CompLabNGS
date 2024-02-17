@@ -1,0 +1,5 @@
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	gene	105537	106448	1	-	.	g4
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	transcript	105537	106448	1	-	.	g4.t1
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	stop_codon	105537	105539	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	CDS	105540	106448	1	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	start_codon	106446	106448	.	-	0	transcript_id "g4.t1"; gene_id "g4";

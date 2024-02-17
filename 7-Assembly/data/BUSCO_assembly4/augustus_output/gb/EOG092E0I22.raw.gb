@@ -1,0 +1,58 @@
+LOCUS       NODE_35_length_108403_cov_41.344455_35595-38554   2960 bp  DNA
+FEATURES             Location/Qualifiers
+     source          1..2960
+     CDS             1001..1960
+                     /gene="g6.t1"
+BASE COUNT     895 a   601 c  629 g   835 t
+ORIGIN
+        1 aaaatttgaa aactttggaa ccaacaacga aactagatgc aagatcaaga ctcaatgagt
+       61 tcaagaagtt gtgtaatgaa tctagtgaag tcgctgcttt gtctggcgag atttccaagt
+      121 gggtcggtca ataccctgtc ccaggtgata tctaagtaat tatgatttaa aatcaaatac
+      181 tttatgtatt aacatataca gccactgccg cttttttttt tatttatttc cagtatattt
+      241 ccctgttcat tgttctttga caatgtcttg aattgacttt cgggaaccaa actgattatt
+      301 attttattca atgtatcgaa attgtaccct gtctttgcac ttacggccac atacggcaga
+      361 ccctgtaact ccgccggtat agtcacttcc cctgaatgct cttcgcagac taaatcgtac
+      421 ttattgccca cgataattac ctgcgttccc tgagcacggt cctgtaaatc ttgaaaccat
+      481 gtctttgcac attgcagact ggatacgtct cccaattcga atacaatcaa agcaatattc
+      541 gcatctcgat aatacattgg caccagtgat ttataccgtt cctgacccgc cgtgtcccat
+      601 atctccatat ggatacgttt ctccgtagag gagtcgttag aaggaacctc gattgtcttg
+      661 gtgatgaacg ccgcacctat cgtagccgca tgttttgcta gaaacttacc tgatttgagc
+      721 ctagtcacta tactggtttt ccccactgat gaatctccta gcagtaccac tttgatggtt
+      781 gcttccatat cgtattcctc cgtattttgt gctacttgta tttcctggag taattttact
+      841 atcattgttc cttaacgtga aacgtaaggc taaaaaacaa taaacgacaa aaaaaaaaca
+      901 aaaaaatgaa aaatgcagag gagtttctct gcatttactg gaagcgatta aataagattg
+      961 cctcaagaaa agaagttatc ggtataatct tttgtaggta atgaagttta cgttagaaga
+     1021 ccaagttgtg ttgatcactg gtggttcaca aggtcttgga aaggaattcg ccaaaaaata
+     1081 ttataatgag gctgaaaaca caaagattat tatcgtcagt aggtcagagg ctagactgct
+     1141 ggacacatgc aacgaaatta ggattgaagc tcacctgaga agggaaacca ctgacgaggg
+     1201 ccaagtgcaa cataagttgg ctgcgccctt ggaccttgag caacggttat tttactaccc
+     1261 atgcgacttg tcctgctacg aatccgtgga atgtttgttc aatgccctga gagacttgga
+     1321 tttactccct acacaaacgt tatgctgtgc agggggggct gttcctaagt tatttcgtgg
+     1381 gctaagcgga catgagttga acttgggtat ggacatcaac tataaaacaa ctttgaacgt
+     1441 ggcacatcag attgcccttg cagagcaaac caaggaacac cacctcatca tcttttctag
+     1501 tgccaccgcg ctttacccat ttgtgggcta ttcccagtat gcgcctgcaa aagctgcaat
+     1561 caaatcactg gtagcaatct taagacaaga actgacgaac ttccgtatca gttgtgttta
+     1621 tcctggtaat tttgaaagcg aaggtttcac tgtagagcag ctaacgaaac ccgaaattac
+     1681 aaagttgatc gaaggcccct cagacgctat cccatgcaaa caagcatgtg atatcattgc
+     1741 caagtcgctg gccagaggtg atgatgacgt ttttacagat tttgtcggat ggatgataat
+     1801 ggggatggac cttgggctca ccgcaaagaa aagccgcttt gttccgttgc aatggatttt
+     1861 tggtgtccta tcaaacattc tggtcgtgcc attctacatg gttggctgtt cctggtatat
+     1921 caggaaatgg tttcgtgaaa atgacggcaa gaaggccaac tgagagcaca tccactctca
+     1981 ttcccgatat tccccgtgac tctctttatt tctttcaaga caaaccctag tggtgtagct
+     2041 atttgtacat gtataagtat atacgaaata ttaattataa cattattacc acggcgatat
+     2101 tttcctattt ttattctctt ttcttactat attttgaaag tttttcttat gggtaccgat
+     2161 gcgatgaggt gaaaaaaatt ttcctctttc cacttttagt acaggttatg agatgcttct
+     2221 cattagaagt caagaagaga gcatatcagt aacaatacga tgagtagcag tggtgtttat
+     2281 acgtgtaatt catgtgtcct gacctttgat gcaagcgacg agcagcgggc ccacatgaag
+     2341 tccgattggc atcgctacaa tttgaaaaga cgtgttgcac aattgccacc aatatcattt
+     2401 gagacatttg actccaaagt gtctgcagct gctgccagta ctagtaagtc tgctgaaaag
+     2461 gagaaacctg ttaccaaaaa ggagttgaaa agaagggaaa agcaagcatt gctcgaaaag
+     2521 aaaaagaaac tgttggaaat tgccagggct aatatgcttg aaaacatgca aaagagccaa
+     2581 gagggaaata ctcccgacct aagcaagctc tctttgcaag aaaatgagga gaacaaggaa
+     2641 aaggaagaac ctaagaagga ggagcctgaa cagttgaccg aggaagaaat ggcggaaaga
+     2701 gtaatgcaag aaaagctacg caacagagtc gatattccac tggaacaatg tctattttgt
+     2761 gagcacaata agcacttcaa agatgttgaa gaaaacctgg aacacatgtt taggacccac
+     2821 gggttttata tcccagaaca gaaatatcta gtcgacaaga tcggcttggt aaaatacatg
+     2881 tcggagaaga ttggtcttgg gaacatttgt attgtttgta attaccaggg gagaacgttg
+     2941 accgctgtaa gacagcacat
+//

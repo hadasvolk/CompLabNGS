@@ -1,0 +1,10 @@
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	gene	11980	12909	0.98	+	.	g3
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	transcript	11980	12909	0.98	+	.	g3.t1
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	start_codon	11980	11982	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	CDS	11980	12906	0.98	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	stop_codon	12907	12909	.	+	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	11980	12030	6.41	+	0	target "unknown_A[1..17]"; target_start 0; transcript_id "g3.t1"; gene_id "g3";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	12040	12087	4.24	+	0	target "unknown_B[1..16]"; target_start 20; transcript_id "g3.t1"; gene_id "g3";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	12088	12255	6.06	+	0	target "unknown_C[1..56]"; target_start 36; transcript_id "g3.t1"; gene_id "g3";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	12331	12546	5.38	+	0	target "unknown_D[1..72]"; target_start 117; transcript_id "g3.t1"; gene_id "g3";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	12553	12906	8.25	+	0	target "unknown_E[1..118]"; target_start 191; transcript_id "g3.t1"; gene_id "g3";

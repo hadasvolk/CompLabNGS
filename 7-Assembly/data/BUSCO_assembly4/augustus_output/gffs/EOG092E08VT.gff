@@ -1,0 +1,5 @@
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	gene	50041	51516	0.95	-	.	g4
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	transcript	50041	51516	0.95	-	.	g4.t1
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	stop_codon	50041	50043	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	CDS	50044	51516	0.95	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_5_length_269732_cov_38.018630	AUGUSTUS	start_codon	51514	51516	.	-	0	transcript_id "g4.t1"; gene_id "g4";
