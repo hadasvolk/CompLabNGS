@@ -2,7 +2,7 @@
 
 In this exercise you will explore various factors affecting assembly quality. You’ll do that using the *RM11* yeast strain genome. Since genome assembly is a computationally-intense and time consuming process even for small genomes, you won’t have to perform the assemblies yourself. 
 
-Instead,  you will use the assemblies prepared for you in advance, which differ from each other by the input data.
+Instead, you will use the assemblies prepared for you in advance, which differ from each other by the input data.
 
 The following table contains the details regarding the assemblies you will analyze:
 
@@ -19,7 +19,8 @@ The following table contains the details regarding the assemblies you will analy
 | 9 | 15 | 2x101 PE, IS 2000 |
 * PE = paired-end; SE = single-end; IS = insert size (bp)
 
-All assemblies are available as Fasta files under [data/all_assemblies](https://github.com/hadasvolk/CompLabNGS/tree/main/7-Assembly/data/all_assemblies)
+All assemblies are available as `Fasta` files under [data/all_assemblies](https://github.com/hadasvolk/CompLabNGS/tree/main/7-Assembly/data/all_assemblies). 
+* Refer to the last section of the main *README* of this repository for instructions on how to download all data at once using `git`.
 
 Note that for each assembly you have both a *contigs* and a *scaffolds* file.
 

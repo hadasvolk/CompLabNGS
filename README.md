@@ -33,3 +33,29 @@ Our course is all about hands-on experience with NGS data analysis. You'll need 
 70 points - Final project
 * Can be done in pairs
 * Submission deadline: 01.05.2024
+
+## Download the data | git clone
+If you wish to pull all data from this repo automatically and not download each file individually, you can use `git` to `clone` the entire repository to your local machine.
+
+Make sure you have `git` installed by running `git --version`. If you don't have it installed, you can download it from [here](https://git-scm.com/downloads). Or simply use the `sudo apt install git` command if you are using a Ubuntu-based system.
+
+You'll also need `git-lfs` to pull the large files. You can download it from [here](https://git-lfs.github.com/).
+
+For Ubuntu do
+```bash
+curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+sudo apt install git-lfs
+```
+
+Then, to clone the repository, use the following command:
+```bash
+git clone https://github.com/hadasvolk/CompLabNGS.git
+```
+
+From now on, you can use `git pull` to get the latest version of the repository. E.g., you can run:
+```bash
+cd CompLabNGS
+git pull
+```
+
+Do it every time you want to get the latest version of the repository.
