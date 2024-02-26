@@ -6,7 +6,7 @@ We’ll start from RNA-seq reads, process them, then map the reads to a referenc
 
 The data contains experimental replicates, each with ~30M reads. However, due to the long run times of some of the steps, you’ll only work with a subsample from a single experiment. The full data will be prepared for your use in the next lesson.
 
-The `S288C_RNA-seq_rep1_subsample.fq` is a small subsample from one of six RNA-seq experiments (three replicates per strain). Note that single-end (SE) sequencing was used.
+The `S288C_RNA-seq_rep1_subsample.fq.gz` is a small subsample from one of six RNA-seq experiments (three replicates per strain). Note that single-end (SE) sequencing was used.
 
 Start by running `FastQC` on the file to get a general idea of the data quality (go back to lesson 3 if you don’t remember how).
 
