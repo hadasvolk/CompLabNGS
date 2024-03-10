@@ -24,6 +24,7 @@ Our course is all about hands-on experience with NGS data analysis. You'll need 
 | 8 | 18/02/2024 | Assembly | [Lecture 7](https://github.com/hadasvolk/CompLabNGS/tree/main/7-Assembly/Lesson7.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/7-Assembly/data) | [Class assignment 6](https://github.com/hadasvolk/CompLabNGS/tree/main/7-Assembly/hw.md) |
 | 9 | 25/02/2024 | RNA-Seq I | [Lecture 8](https://github.com/hadasvolk/CompLabNGS/tree/main/8-RNASeq1/Lesson8.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/8-RNASeq1/data) | [Class assignment 7](https://github.com/hadasvolk/CompLabNGS/tree/main/8-RNASeq1/hw.md) |
 | 10 | 03/03/2024 | Python for Bioinformatics | [Lecture 9](https://github.com/hadasvolk/CompLabNGS/tree/main/9-Python/Lesson9.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/9-Python/data) | [Class assignment 8](https://github.com/hadasvolk/CompLabNGS/tree/main/9-Python/hw.md) |
+| 11 | 10/03/2024 | RNA-Seq II | [Lecture 10](https://github.com/hadasvolk/CompLabNGS/tree/main/10-RNASeq2/Lesson10.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/10-RNASeq2/data) | [Class assignment 9](https://github.com/hadasvolk/CompLabNGS/tree/main/10-RNASeq2/hw.md) |
 
 ## Large files
 Some of the files in this repository are large and cannot be viewed directly in the browser. These files are accesible in a Google Drive folder. You can access the folder [here](https://drive.google.com/drive/folders/1N1pYkeFPUOo4_Hv_Jk2MzgzlZ-LLWXSY?usp=sharing)

@@ -161,3 +161,8 @@ cython_debug/
 
 # previous years material
 taungs/
+
+# tmp files
+10-RNA2/tmp/
+10-RNA2/10-RNA2/data/*bam
+10-RNA2/10-RNA2/data/*bai
