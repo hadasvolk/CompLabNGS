@@ -8,7 +8,7 @@ You will need to understand the biological context of the experiment, the experi
 
 You will need to submit a single zip file with a main Jupyter notebook with your analysis. The notebook should be well-documented and should include all the code you used to perform the analysis. It should include markdown cells with explanations of the steps you took and the results you obtained. You should also include the figures and tables you generated in the notebook or with Markdown tags for the images. The notebook should be self-contained and should not rely on any external files. It should include both `bash` and `Python` code. Follow the instructions and expand the [template.ipynb](template.ipynb) file.
 
-**The final assignment is due on 01.06.2024. Please submit your notebook via Moodle and by email** Submissions made after this date will not be graded. Submissions delivered to my mailbox will not be graded.
+**The final assignment is due on 01.06.2024. Please submit your notebook via Moodle** Submissions made after this date will not be graded. Submissions delivered to my mailbox will not be graded.
 
 #### **Important notes:**
 * Submit a single zip file with name `<your first name>-<your last name>.zip`. If you worked in a group, submit a single zip with all your names on it as such: `<first name1>-<last name1>_<first name2>-<last name2>.zip`. For example: `hadas-volk.zip` or `hadas-volk_moshe-perez.zip`.
