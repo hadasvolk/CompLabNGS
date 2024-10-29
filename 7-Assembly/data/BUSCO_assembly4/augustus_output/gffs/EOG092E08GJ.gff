@@ -1,9 +1,0 @@
-NODE_19_length_158332_cov_37.014670	AUGUSTUS	gene	66928	68613	1	-	.	g6
-NODE_19_length_158332_cov_37.014670	AUGUSTUS	transcript	66928	68613	1	-	.	g6.t1
-NODE_19_length_158332_cov_37.014670	AUGUSTUS	stop_codon	66928	66930	.	-	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_19_length_158332_cov_37.014670	AUGUSTUS	CDS	66931	68613	1	-	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_19_length_158332_cov_37.014670	AUGUSTUS	start_codon	68611	68613	.	-	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_19_length_158332_cov_37.014670	AUGUSTUS	protein_match	66943	67008	6.77	-	0	target "unknown_D[1..22]"; target_start 535; transcript_id "g6.t1"; gene_id "g6";
-NODE_19_length_158332_cov_37.014670	AUGUSTUS	protein_match	67024	68178	8.26	-	0	target "unknown_C[1..385]"; target_start 145; transcript_id "g6.t1"; gene_id "g6";
-NODE_19_length_158332_cov_37.014670	AUGUSTUS	protein_match	68185	68484	8.42	-	0	target "unknown_B[1..100]"; target_start 43; transcript_id "g6.t1"; gene_id "g6";
-NODE_19_length_158332_cov_37.014670	AUGUSTUS	protein_match	68488	68565	4.2	-	0	target "unknown_A[1..26]"; target_start 16; transcript_id "g6.t1"; gene_id "g6";

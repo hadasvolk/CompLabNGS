@@ -1,5 +1,0 @@
-NODE_21_length_147213_cov_37.852906	AUGUSTUS	gene	82925	83740	1	-	.	g5
-NODE_21_length_147213_cov_37.852906	AUGUSTUS	transcript	82925	83740	1	-	.	g5.t1
-NODE_21_length_147213_cov_37.852906	AUGUSTUS	stop_codon	82925	82927	.	-	0	transcript_id "g5.t1"; gene_id "g5";
-NODE_21_length_147213_cov_37.852906	AUGUSTUS	CDS	82928	83740	1	-	0	transcript_id "g5.t1"; gene_id "g5";
-NODE_21_length_147213_cov_37.852906	AUGUSTUS	start_codon	83738	83740	.	-	0	transcript_id "g5.t1"; gene_id "g5";

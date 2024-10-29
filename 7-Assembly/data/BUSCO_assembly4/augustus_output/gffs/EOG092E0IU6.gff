@@ -1,7 +1,0 @@
-NODE_20_length_155575_cov_37.679559	AUGUSTUS	gene	151174	151743	0.99	-	.	g4
-NODE_20_length_155575_cov_37.679559	AUGUSTUS	transcript	151174	151743	0.99	-	.	g4.t1
-NODE_20_length_155575_cov_37.679559	AUGUSTUS	stop_codon	151174	151176	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_20_length_155575_cov_37.679559	AUGUSTUS	CDS	151177	151743	0.99	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_20_length_155575_cov_37.679559	AUGUSTUS	start_codon	151741	151743	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_20_length_155575_cov_37.679559	AUGUSTUS	protein_match	151177	151653	10.9	-	0	target "unknown_B[1..159]"; target_start 30; transcript_id "g4.t1"; gene_id "g4";
-NODE_20_length_155575_cov_37.679559	AUGUSTUS	protein_match	151672	151743	8.95	-	0	target "unknown_A[1..24]"; target_start 0; transcript_id "g4.t1"; gene_id "g4";

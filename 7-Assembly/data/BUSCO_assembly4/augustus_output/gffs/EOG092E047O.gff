@@ -1,5 +1,0 @@
-NODE_38_length_105757_cov_40.328830	AUGUSTUS	gene	65655	67637	0.44	-	.	g4
-NODE_38_length_105757_cov_40.328830	AUGUSTUS	transcript	65655	67637	0.44	-	.	g4.t1
-NODE_38_length_105757_cov_40.328830	AUGUSTUS	stop_codon	65655	65657	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_38_length_105757_cov_40.328830	AUGUSTUS	CDS	65658	67637	0.44	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_38_length_105757_cov_40.328830	AUGUSTUS	start_codon	67635	67637	.	-	0	transcript_id "g4.t1"; gene_id "g4";

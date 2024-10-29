@@ -1,5 +1,0 @@
-NODE_38_length_105757_cov_40.328830	AUGUSTUS	gene	99767	102094	1	-	.	g3
-NODE_38_length_105757_cov_40.328830	AUGUSTUS	transcript	99767	102094	1	-	.	g3.t1
-NODE_38_length_105757_cov_40.328830	AUGUSTUS	stop_codon	99767	99769	.	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_38_length_105757_cov_40.328830	AUGUSTUS	CDS	99770	102094	1	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_38_length_105757_cov_40.328830	AUGUSTUS	start_codon	102092	102094	.	-	0	transcript_id "g3.t1"; gene_id "g3";

@@ -1,5 +1,0 @@
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	gene	51963	53342	0.94	-	.	g4
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	transcript	51963	53342	0.94	-	.	g4.t1
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	stop_codon	51963	51965	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	CDS	51966	53342	0.94	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	start_codon	53340	53342	.	-	0	transcript_id "g4.t1"; gene_id "g4";

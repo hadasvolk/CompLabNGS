@@ -1,5 +1,0 @@
-NODE_2_length_376067_cov_37.491936	AUGUSTUS	gene	330757	331260	1	-	.	g3
-NODE_2_length_376067_cov_37.491936	AUGUSTUS	transcript	330757	331260	1	-	.	g3.t1
-NODE_2_length_376067_cov_37.491936	AUGUSTUS	stop_codon	330757	330759	.	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_2_length_376067_cov_37.491936	AUGUSTUS	CDS	330760	331260	1	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_2_length_376067_cov_37.491936	AUGUSTUS	start_codon	331258	331260	.	-	0	transcript_id "g3.t1"; gene_id "g3";

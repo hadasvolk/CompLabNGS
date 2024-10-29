@@ -1,5 +1,0 @@
-NODE_57_length_78326_cov_37.604541	AUGUSTUS	gene	27922	28446	0.68	-	.	g4
-NODE_57_length_78326_cov_37.604541	AUGUSTUS	transcript	27922	28446	0.68	-	.	g4.t1
-NODE_57_length_78326_cov_37.604541	AUGUSTUS	stop_codon	27922	27924	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_57_length_78326_cov_37.604541	AUGUSTUS	CDS	27925	28446	0.68	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_57_length_78326_cov_37.604541	AUGUSTUS	start_codon	28444	28446	.	-	0	transcript_id "g4.t1"; gene_id "g4";

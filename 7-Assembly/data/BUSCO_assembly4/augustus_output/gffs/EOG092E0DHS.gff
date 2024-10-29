@@ -1,5 +1,0 @@
-NODE_63_length_71111_cov_39.342181	AUGUSTUS	gene	19526	20566	1	-	.	g4
-NODE_63_length_71111_cov_39.342181	AUGUSTUS	transcript	19526	20566	1	-	.	g4.t1
-NODE_63_length_71111_cov_39.342181	AUGUSTUS	stop_codon	19526	19528	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_63_length_71111_cov_39.342181	AUGUSTUS	CDS	19529	20566	1	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_63_length_71111_cov_39.342181	AUGUSTUS	start_codon	20564	20566	.	-	0	transcript_id "g4.t1"; gene_id "g4";

@@ -1,5 +1,0 @@
-NODE_2_length_376067_cov_37.491936	AUGUSTUS	gene	72161	72763	1	-	.	g3
-NODE_2_length_376067_cov_37.491936	AUGUSTUS	transcript	72161	72763	1	-	.	g3.t1
-NODE_2_length_376067_cov_37.491936	AUGUSTUS	stop_codon	72161	72163	.	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_2_length_376067_cov_37.491936	AUGUSTUS	CDS	72164	72763	1	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_2_length_376067_cov_37.491936	AUGUSTUS	start_codon	72761	72763	.	-	0	transcript_id "g3.t1"; gene_id "g3";

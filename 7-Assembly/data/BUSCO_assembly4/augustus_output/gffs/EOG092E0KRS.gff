@@ -1,7 +1,0 @@
-NODE_39_length_104501_cov_36.346954	AUGUSTUS	gene	64861	65485	0.94	-	.	g3
-NODE_39_length_104501_cov_36.346954	AUGUSTUS	transcript	64861	65485	0.94	-	.	g3.t1
-NODE_39_length_104501_cov_36.346954	AUGUSTUS	stop_codon	64861	64863	.	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_39_length_104501_cov_36.346954	AUGUSTUS	intron	65388	65469	1	-	.	transcript_id "g3.t1"; gene_id "g3";
-NODE_39_length_104501_cov_36.346954	AUGUSTUS	CDS	64864	65387	0.94	-	2	transcript_id "g3.t1"; gene_id "g3";
-NODE_39_length_104501_cov_36.346954	AUGUSTUS	CDS	65470	65485	1	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_39_length_104501_cov_36.346954	AUGUSTUS	start_codon	65483	65485	.	-	0	transcript_id "g3.t1"; gene_id "g3";

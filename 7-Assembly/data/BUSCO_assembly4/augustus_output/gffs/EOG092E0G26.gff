@@ -1,5 +1,0 @@
-NODE_64_length_70580_cov_37.890067	AUGUSTUS	gene	49730	50515	1	-	.	g3
-NODE_64_length_70580_cov_37.890067	AUGUSTUS	transcript	49730	50515	1	-	.	g3.t1
-NODE_64_length_70580_cov_37.890067	AUGUSTUS	stop_codon	49730	49732	.	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_64_length_70580_cov_37.890067	AUGUSTUS	CDS	49733	50515	1	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_64_length_70580_cov_37.890067	AUGUSTUS	start_codon	50513	50515	.	-	0	transcript_id "g3.t1"; gene_id "g3";

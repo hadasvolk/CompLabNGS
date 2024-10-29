@@ -1,8 +1,0 @@
-NODE_7_length_204331_cov_37.767266	AUGUSTUS	gene	120127	120468	0.93	+	.	g6
-NODE_7_length_204331_cov_37.767266	AUGUSTUS	transcript	120127	120468	0.93	+	.	g6.t1
-NODE_7_length_204331_cov_37.767266	AUGUSTUS	start_codon	120127	120129	.	+	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_7_length_204331_cov_37.767266	AUGUSTUS	CDS	120127	120465	0.93	+	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_7_length_204331_cov_37.767266	AUGUSTUS	stop_codon	120466	120468	.	+	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_7_length_204331_cov_37.767266	AUGUSTUS	protein_match	120139	120267	4.31	+	0	target "unknown_A[1..43]"; target_start 4; transcript_id "g6.t1"; gene_id "g6";
-NODE_7_length_204331_cov_37.767266	AUGUSTUS	protein_match	120319	120372	5.98	+	0	target "unknown_B[1..18]"; target_start 64; transcript_id "g6.t1"; gene_id "g6";
-NODE_7_length_204331_cov_37.767266	AUGUSTUS	protein_match	120379	120453	4.9	+	0	target "unknown_C[1..25]"; target_start 84; transcript_id "g6.t1"; gene_id "g6";

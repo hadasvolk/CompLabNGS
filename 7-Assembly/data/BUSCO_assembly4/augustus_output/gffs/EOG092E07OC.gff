@@ -1,5 +1,0 @@
-NODE_27_length_128337_cov_38.689777	AUGUSTUS	gene	52475	54010	1	-	.	g3
-NODE_27_length_128337_cov_38.689777	AUGUSTUS	transcript	52475	54010	1	-	.	g3.t1
-NODE_27_length_128337_cov_38.689777	AUGUSTUS	stop_codon	52475	52477	.	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_27_length_128337_cov_38.689777	AUGUSTUS	CDS	52478	54010	1	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_27_length_128337_cov_38.689777	AUGUSTUS	start_codon	54008	54010	.	-	0	transcript_id "g3.t1"; gene_id "g3";

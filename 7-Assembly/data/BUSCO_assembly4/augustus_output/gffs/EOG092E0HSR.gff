@@ -1,6 +1,0 @@
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	gene	90445	91110	1	-	.	g5
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	transcript	90445	91110	1	-	.	g5.t1
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	stop_codon	90445	90447	.	-	0	transcript_id "g5.t1"; gene_id "g5";
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	CDS	90448	91110	1	-	0	transcript_id "g5.t1"; gene_id "g5";
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	start_codon	91108	91110	.	-	0	transcript_id "g5.t1"; gene_id "g5";
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	protein_match	90451	91110	11.2	-	0	target "unknown_A[1..220]"; target_start 0; transcript_id "g5.t1"; gene_id "g5";

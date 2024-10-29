@@ -1,6 +1,0 @@
-NODE_33_length_110769_cov_38.314531	AUGUSTUS	gene	15976	17262	1	+	.	g4
-NODE_33_length_110769_cov_38.314531	AUGUSTUS	transcript	15976	17262	1	+	.	g4.t1
-NODE_33_length_110769_cov_38.314531	AUGUSTUS	start_codon	15976	15978	.	+	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_33_length_110769_cov_38.314531	AUGUSTUS	CDS	15976	17259	1	+	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_33_length_110769_cov_38.314531	AUGUSTUS	stop_codon	17260	17262	.	+	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_33_length_110769_cov_38.314531	AUGUSTUS	protein_match	16096	17259	10.8	+	0	target "unknown_A[1..388]"; target_start 40; transcript_id "g4.t1"; gene_id "g4";

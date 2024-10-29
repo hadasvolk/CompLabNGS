@@ -1,5 +1,0 @@
-NODE_75_length_61241_cov_41.526264	AUGUSTUS	gene	41284	43542	1	-	.	g4
-NODE_75_length_61241_cov_41.526264	AUGUSTUS	transcript	41284	43542	1	-	.	g4.t1
-NODE_75_length_61241_cov_41.526264	AUGUSTUS	stop_codon	41284	41286	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_75_length_61241_cov_41.526264	AUGUSTUS	CDS	41287	43542	1	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_75_length_61241_cov_41.526264	AUGUSTUS	start_codon	43540	43542	.	-	0	transcript_id "g4.t1"; gene_id "g4";

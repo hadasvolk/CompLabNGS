@@ -1,5 +1,0 @@
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	gene	111272	113059	0.94	-	.	g6
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	transcript	111272	113059	0.94	-	.	g6.t1
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	stop_codon	111272	111274	.	-	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	CDS	111275	113059	0.94	-	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	start_codon	113057	113059	.	-	0	transcript_id "g6.t1"; gene_id "g6";

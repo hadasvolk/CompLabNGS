@@ -1,5 +1,0 @@
-NODE_93_length_37754_cov_35.608372	AUGUSTUS	gene	20112	20657	0.75	-	.	g4
-NODE_93_length_37754_cov_35.608372	AUGUSTUS	transcript	20112	20657	0.75	-	.	g4.t1
-NODE_93_length_37754_cov_35.608372	AUGUSTUS	stop_codon	20112	20114	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_93_length_37754_cov_35.608372	AUGUSTUS	CDS	20115	20657	0.75	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_93_length_37754_cov_35.608372	AUGUSTUS	start_codon	20655	20657	.	-	0	transcript_id "g4.t1"; gene_id "g4";

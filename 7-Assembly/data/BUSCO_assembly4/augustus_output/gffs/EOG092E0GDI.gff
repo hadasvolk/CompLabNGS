@@ -1,5 +1,0 @@
-NODE_8_length_203896_cov_38.927669	AUGUSTUS	gene	68996	69754	1	-	.	g3
-NODE_8_length_203896_cov_38.927669	AUGUSTUS	transcript	68996	69754	1	-	.	g3.t1
-NODE_8_length_203896_cov_38.927669	AUGUSTUS	stop_codon	68996	68998	.	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_8_length_203896_cov_38.927669	AUGUSTUS	CDS	68999	69754	1	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_8_length_203896_cov_38.927669	AUGUSTUS	start_codon	69752	69754	.	-	0	transcript_id "g3.t1"; gene_id "g3";

@@ -1,5 +1,0 @@
-NODE_37_length_106147_cov_39.123789	AUGUSTUS	gene	87199	89322	1	-	.	g4
-NODE_37_length_106147_cov_39.123789	AUGUSTUS	transcript	87199	89322	1	-	.	g4.t1
-NODE_37_length_106147_cov_39.123789	AUGUSTUS	stop_codon	87199	87201	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_37_length_106147_cov_39.123789	AUGUSTUS	CDS	87202	89322	1	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_37_length_106147_cov_39.123789	AUGUSTUS	start_codon	89320	89322	.	-	0	transcript_id "g4.t1"; gene_id "g4";

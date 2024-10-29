@@ -1,5 +1,0 @@
-NODE_11_length_195637_cov_39.932688	AUGUSTUS	gene	168396	169844	1	-	.	g5
-NODE_11_length_195637_cov_39.932688	AUGUSTUS	transcript	168396	169844	1	-	.	g5.t1
-NODE_11_length_195637_cov_39.932688	AUGUSTUS	stop_codon	168396	168398	.	-	0	transcript_id "g5.t1"; gene_id "g5";
-NODE_11_length_195637_cov_39.932688	AUGUSTUS	CDS	168399	169844	1	-	0	transcript_id "g5.t1"; gene_id "g5";
-NODE_11_length_195637_cov_39.932688	AUGUSTUS	start_codon	169842	169844	.	-	0	transcript_id "g5.t1"; gene_id "g5";

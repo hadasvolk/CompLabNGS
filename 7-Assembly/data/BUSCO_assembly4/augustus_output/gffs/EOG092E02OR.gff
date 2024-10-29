@@ -1,5 +1,0 @@
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	gene	217922	220195	1	-	.	g3
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	transcript	217922	220195	1	-	.	g3.t1
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	stop_codon	217922	217924	.	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	CDS	217925	220195	1	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_6_length_246120_cov_37.254880	AUGUSTUS	start_codon	220193	220195	.	-	0	transcript_id "g3.t1"; gene_id "g3";

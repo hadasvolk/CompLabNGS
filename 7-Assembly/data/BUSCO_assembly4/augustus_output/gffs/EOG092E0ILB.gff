@@ -1,5 +1,0 @@
-NODE_34_length_108592_cov_37.662493	AUGUSTUS	gene	23868	24485	0.78	-	.	g4
-NODE_34_length_108592_cov_37.662493	AUGUSTUS	transcript	23868	24485	0.78	-	.	g4.t1
-NODE_34_length_108592_cov_37.662493	AUGUSTUS	stop_codon	23868	23870	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_34_length_108592_cov_37.662493	AUGUSTUS	CDS	23871	24485	0.78	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_34_length_108592_cov_37.662493	AUGUSTUS	start_codon	24483	24485	.	-	0	transcript_id "g4.t1"; gene_id "g4";

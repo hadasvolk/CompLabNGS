@@ -1,5 +1,0 @@
-NODE_54_length_82353_cov_37.462368	AUGUSTUS	gene	69384	70031	0.99	-	.	g5
-NODE_54_length_82353_cov_37.462368	AUGUSTUS	transcript	69384	70031	0.99	-	.	g5.t1
-NODE_54_length_82353_cov_37.462368	AUGUSTUS	stop_codon	69384	69386	.	-	0	transcript_id "g5.t1"; gene_id "g5";
-NODE_54_length_82353_cov_37.462368	AUGUSTUS	CDS	69387	70031	0.99	-	0	transcript_id "g5.t1"; gene_id "g5";
-NODE_54_length_82353_cov_37.462368	AUGUSTUS	start_codon	70029	70031	.	-	0	transcript_id "g5.t1"; gene_id "g5";

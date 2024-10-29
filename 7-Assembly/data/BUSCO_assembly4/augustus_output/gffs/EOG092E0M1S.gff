@@ -1,5 +1,0 @@
-NODE_17_length_162010_cov_37.467976	AUGUSTUS	gene	39065	39541	1	-	.	g3
-NODE_17_length_162010_cov_37.467976	AUGUSTUS	transcript	39065	39541	1	-	.	g3.t1
-NODE_17_length_162010_cov_37.467976	AUGUSTUS	stop_codon	39065	39067	.	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_17_length_162010_cov_37.467976	AUGUSTUS	CDS	39068	39541	1	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_17_length_162010_cov_37.467976	AUGUSTUS	start_codon	39539	39541	.	-	0	transcript_id "g3.t1"; gene_id "g3";

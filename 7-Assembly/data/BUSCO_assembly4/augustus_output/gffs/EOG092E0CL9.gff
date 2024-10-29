@@ -1,5 +1,0 @@
-NODE_120_length_14186_cov_36.612908	AUGUSTUS	gene	12712	13647	1	-	.	g4
-NODE_120_length_14186_cov_36.612908	AUGUSTUS	transcript	12712	13647	1	-	.	g4.t1
-NODE_120_length_14186_cov_36.612908	AUGUSTUS	stop_codon	12712	12714	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_120_length_14186_cov_36.612908	AUGUSTUS	CDS	12715	13647	1	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_120_length_14186_cov_36.612908	AUGUSTUS	start_codon	13645	13647	.	-	0	transcript_id "g4.t1"; gene_id "g4";

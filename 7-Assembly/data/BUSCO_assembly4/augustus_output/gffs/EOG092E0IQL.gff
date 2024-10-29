@@ -1,5 +1,0 @@
-NODE_59_length_76837_cov_42.231799	AUGUSTUS	gene	19949	20521	1	-	.	g4
-NODE_59_length_76837_cov_42.231799	AUGUSTUS	transcript	19949	20521	1	-	.	g4.t1
-NODE_59_length_76837_cov_42.231799	AUGUSTUS	stop_codon	19949	19951	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_59_length_76837_cov_42.231799	AUGUSTUS	CDS	19952	20521	1	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_59_length_76837_cov_42.231799	AUGUSTUS	start_codon	20519	20521	.	-	0	transcript_id "g4.t1"; gene_id "g4";

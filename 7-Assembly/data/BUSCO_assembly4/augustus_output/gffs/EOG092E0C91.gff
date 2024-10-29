@@ -1,5 +1,0 @@
-NODE_55_length_81905_cov_48.194246	AUGUSTUS	gene	40719	41984	1	-	.	g6
-NODE_55_length_81905_cov_48.194246	AUGUSTUS	transcript	40719	41984	1	-	.	g6.t1
-NODE_55_length_81905_cov_48.194246	AUGUSTUS	stop_codon	40719	40721	.	-	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_55_length_81905_cov_48.194246	AUGUSTUS	CDS	40722	41984	1	-	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_55_length_81905_cov_48.194246	AUGUSTUS	start_codon	41982	41984	.	-	0	transcript_id "g6.t1"; gene_id "g6";

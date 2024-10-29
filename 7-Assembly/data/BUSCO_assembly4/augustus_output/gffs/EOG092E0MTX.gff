@@ -1,5 +1,0 @@
-NODE_35_length_108403_cov_41.344455	AUGUSTUS	gene	40173	40589	0.61	-	.	g6
-NODE_35_length_108403_cov_41.344455	AUGUSTUS	transcript	40173	40589	0.61	-	.	g6.t1
-NODE_35_length_108403_cov_41.344455	AUGUSTUS	stop_codon	40173	40175	.	-	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_35_length_108403_cov_41.344455	AUGUSTUS	CDS	40176	40589	0.61	-	0	transcript_id "g6.t1"; gene_id "g6";
-NODE_35_length_108403_cov_41.344455	AUGUSTUS	start_codon	40587	40589	.	-	0	transcript_id "g6.t1"; gene_id "g6";

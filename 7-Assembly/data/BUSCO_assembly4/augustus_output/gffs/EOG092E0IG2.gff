@@ -1,9 +1,0 @@
-NODE_23_length_142158_cov_37.948699	AUGUSTUS	gene	41513	42091	1	+	.	g11
-NODE_23_length_142158_cov_37.948699	AUGUSTUS	transcript	41513	42091	1	+	.	g11.t1
-NODE_23_length_142158_cov_37.948699	AUGUSTUS	start_codon	41513	41515	.	+	0	transcript_id "g11.t1"; gene_id "g11";
-NODE_23_length_142158_cov_37.948699	AUGUSTUS	CDS	41513	42088	1	+	0	transcript_id "g11.t1"; gene_id "g11";
-NODE_23_length_142158_cov_37.948699	AUGUSTUS	stop_codon	42089	42091	.	+	0	transcript_id "g11.t1"; gene_id "g11";
-NODE_23_length_142158_cov_37.948699	AUGUSTUS	protein_match	41516	41845	9.26	+	0	target "unknown_A[1..110]"; target_start 1; transcript_id "g11.t1"; gene_id "g11";
-NODE_23_length_142158_cov_37.948699	AUGUSTUS	protein_match	41846	41893	6.24	+	0	target "unknown_B[1..16]"; target_start 111; transcript_id "g11.t1"; gene_id "g11";
-NODE_23_length_142158_cov_37.948699	AUGUSTUS	protein_match	41918	42058	6.95	+	0	target "unknown_C[1..47]"; target_start 135; transcript_id "g11.t1"; gene_id "g11";
-NODE_23_length_142158_cov_37.948699	AUGUSTUS	protein_match	42065	42088	5.04	+	0	target "unknown_D[1..8]"; target_start 184; transcript_id "g11.t1"; gene_id "g11";

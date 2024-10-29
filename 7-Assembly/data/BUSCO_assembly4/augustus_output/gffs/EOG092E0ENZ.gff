@@ -1,5 +1,0 @@
-NODE_17_length_162010_cov_37.467976	AUGUSTUS	gene	50565	51494	1	-	.	g4
-NODE_17_length_162010_cov_37.467976	AUGUSTUS	transcript	50565	51494	1	-	.	g4.t1
-NODE_17_length_162010_cov_37.467976	AUGUSTUS	stop_codon	50565	50567	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_17_length_162010_cov_37.467976	AUGUSTUS	CDS	50568	51494	1	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_17_length_162010_cov_37.467976	AUGUSTUS	start_codon	51492	51494	.	-	0	transcript_id "g4.t1"; gene_id "g4";

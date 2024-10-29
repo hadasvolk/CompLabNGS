@@ -1,5 +1,0 @@
-NODE_21_length_147213_cov_37.852906	AUGUSTUS	gene	46965	47807	1	+	.	g2
-NODE_21_length_147213_cov_37.852906	AUGUSTUS	transcript	46965	47807	1	+	.	g2.t1
-NODE_21_length_147213_cov_37.852906	AUGUSTUS	start_codon	46965	46967	.	+	0	transcript_id "g2.t1"; gene_id "g2";
-NODE_21_length_147213_cov_37.852906	AUGUSTUS	CDS	46965	47804	1	+	0	transcript_id "g2.t1"; gene_id "g2";
-NODE_21_length_147213_cov_37.852906	AUGUSTUS	stop_codon	47805	47807	.	+	0	transcript_id "g2.t1"; gene_id "g2";

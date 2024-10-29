@@ -1,5 +1,0 @@
-NODE_47_length_90333_cov_36.846142	AUGUSTUS	gene	40409	41710	0.6	-	.	g4
-NODE_47_length_90333_cov_36.846142	AUGUSTUS	transcript	40409	41710	0.6	-	.	g4.t1
-NODE_47_length_90333_cov_36.846142	AUGUSTUS	stop_codon	40409	40411	.	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_47_length_90333_cov_36.846142	AUGUSTUS	CDS	40412	41710	0.6	-	0	transcript_id "g4.t1"; gene_id "g4";
-NODE_47_length_90333_cov_36.846142	AUGUSTUS	start_codon	41708	41710	.	-	0	transcript_id "g4.t1"; gene_id "g4";

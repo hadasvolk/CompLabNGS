@@ -1,7 +1,0 @@
-NODE_16_length_162425_cov_39.423108	AUGUSTUS	gene	44804	45451	0.97	+	.	g2
-NODE_16_length_162425_cov_39.423108	AUGUSTUS	transcript	44804	45451	0.97	+	.	g2.t1
-NODE_16_length_162425_cov_39.423108	AUGUSTUS	start_codon	44804	44806	.	+	0	transcript_id "g2.t1"; gene_id "g2";
-NODE_16_length_162425_cov_39.423108	AUGUSTUS	CDS	44804	45448	0.97	+	0	transcript_id "g2.t1"; gene_id "g2";
-NODE_16_length_162425_cov_39.423108	AUGUSTUS	stop_codon	45449	45451	.	+	0	transcript_id "g2.t1"; gene_id "g2";
-NODE_16_length_162425_cov_39.423108	AUGUSTUS	protein_match	44882	44938	4.87	+	0	target "unknown_B[1..19]"; target_start 26; transcript_id "g2.t1"; gene_id "g2";
-NODE_16_length_162425_cov_39.423108	AUGUSTUS	protein_match	44945	45436	10.2	+	0	target "unknown_C[1..164]"; target_start 47; transcript_id "g2.t1"; gene_id "g2";

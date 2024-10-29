@@ -1,5 +1,0 @@
-NODE_1_length_449352_cov_38.101223	AUGUSTUS	gene	200999	201625	1	-	.	g3
-NODE_1_length_449352_cov_38.101223	AUGUSTUS	transcript	200999	201625	1	-	.	g3.t1
-NODE_1_length_449352_cov_38.101223	AUGUSTUS	stop_codon	200999	201001	.	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_1_length_449352_cov_38.101223	AUGUSTUS	CDS	201002	201625	1	-	0	transcript_id "g3.t1"; gene_id "g3";
-NODE_1_length_449352_cov_38.101223	AUGUSTUS	start_codon	201623	201625	.	-	0	transcript_id "g3.t1"; gene_id "g3";

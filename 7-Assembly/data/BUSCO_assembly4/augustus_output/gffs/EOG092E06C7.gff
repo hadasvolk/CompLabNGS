@@ -1,5 +1,0 @@
-NODE_100_length_31993_cov_36.639239	AUGUSTUS	gene	13518	14996	0.98	-	.	g2
-NODE_100_length_31993_cov_36.639239	AUGUSTUS	transcript	13518	14996	0.98	-	.	g2.t1
-NODE_100_length_31993_cov_36.639239	AUGUSTUS	stop_codon	13518	13520	.	-	0	transcript_id "g2.t1"; gene_id "g2";
-NODE_100_length_31993_cov_36.639239	AUGUSTUS	CDS	13521	14996	0.98	-	0	transcript_id "g2.t1"; gene_id "g2";
-NODE_100_length_31993_cov_36.639239	AUGUSTUS	start_codon	14994	14996	.	-	0	transcript_id "g2.t1"; gene_id "g2";
