@@ -29,7 +29,7 @@ Some of the files in this repository are large and cannot be viewed directly in 
 
 70 points - Final project
 * Can be done in pairs
-* Submission deadline: TBD
+* Submission deadline: 02.03.2025
 
 ## Download the data | git clone
 If you wish to pull data and material hosted in this GitHub repo automatically and not download each file individually, you can use `git` to `clone` the entire repository to your local machine.
