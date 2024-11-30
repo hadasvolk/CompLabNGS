@@ -17,6 +17,7 @@ Our course is all about hands-on experience with NGS data analysis. You'll need 
 | 1 | 03/11/2024 | Introduction to NGS and Genomics | [Lecture 1](https://github.com/hadasvolk/CompLabNGS/blob/main/1-IntroToNGS/Lesson1.pdf) | | [Setting up your environment](https://github.com/hadasvolk/CompLabNGS/blob/main/0-SettingUp/SettingUp.md) |
 | 2 | 10/11/2024 | Introduction to Linux and the command line | [Lecture 2](https://github.com/hadasvolk/CompLabNGS/blob/main/2-Linux/Lesson2.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/2-Linux/data) | [Class assignment 1](https://github.com/hadasvolk/CompLabNGS/tree/main/2-Linux/hw.md) |
 | 3 | 17/11/2024 | NGS data quality control and pre-processing | [Lecture 3](https://github.com/hadasvolk/CompLabNGS/tree/main/3-QC/Lesson3.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/3-QC/data) | [Class assignment 2](https://github.com/hadasvolk/CompLabNGS/tree/main/3-QC/hw.md) |
+| 4 | 01/12/2024 | Sequence mapping part I | [Lecture 4](https://github.com/hadasvolk/CompLabNGS/tree/main/4-Mapping1/Lesson4.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/4-Mapping1/data) | [Class assignment 3](https://github.com/hadasvolk/CompLabNGS/tree/main/4-Mapping1/hw.md) |
 
 ## Large files
 Some of the files in this repository are large and cannot be viewed directly in the browser. These files are accesible in a Google Drive folder. You can access the folder [here](https://drive.google.com/drive/folders/1N1pYkeFPUOo4_Hv_Jk2MzgzlZ-LLWXSY?usp=sharing)
