@@ -20,6 +20,7 @@ Our course is all about hands-on experience with NGS data analysis. You'll need 
 | 4 | 01/12/2024 | Sequence mapping part I | [Lecture 4](https://github.com/hadasvolk/CompLabNGS/tree/main/4-Mapping1/Lesson4.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/4-Mapping1/data) | [Class assignment 3](https://github.com/hadasvolk/CompLabNGS/tree/main/4-Mapping1/hw.md) |
 | 5 | 08/12/2024 | Sequence mapping part II | [Lecture 5](https://github.com/hadasvolk/CompLabNGS/tree/main/5-Mapping2/Lesson4.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/5-Mapping2/data) | [Class assignment 4](https://github.com/hadasvolk/CompLabNGS/tree/main/5-Mapping2/hw.md) |
 | 6 | 15/12/2024 | Variant calling | [Lecture 6](https://github.com/hadasvolk/CompLabNGS/tree/main/6-VariantCalling/Lesson6.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/6-VariantCalling/data) | [Class assignment 5](https://github.com/hadasvolk/CompLabNGS/tree/main/6-VariantCalling/hw.md) |
+| 7 | 22/12/2024 | Assembly | [Lecture 7](https://github.com/hadasvolk/CompLabNGS/tree/main/7-Assembly/Lesson7.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/7-Assembly/data) | [Class assignment 6](https://github.com/hadasvolk/CompLabNGS/tree/main/7-Assembly/hw.md) |
 
 ## Large files
 Some of the files in this repository are large and cannot be viewed directly in the browser. These files are accesible in a Google Drive folder. You can access the folder [here](https://drive.google.com/drive/folders/1N1pYkeFPUOo4_Hv_Jk2MzgzlZ-LLWXSY?usp=sharing)

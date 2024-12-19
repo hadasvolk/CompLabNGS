@@ -1,0 +1,5 @@
+NODE_74_length_61744_cov_36.169576	AUGUSTUS	gene	9639	11219	0.97	-	.	g3
+NODE_74_length_61744_cov_36.169576	AUGUSTUS	transcript	9639	11219	0.97	-	.	g3.t1
+NODE_74_length_61744_cov_36.169576	AUGUSTUS	stop_codon	9639	9641	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_74_length_61744_cov_36.169576	AUGUSTUS	CDS	9642	11219	0.97	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_74_length_61744_cov_36.169576	AUGUSTUS	start_codon	11217	11219	.	-	0	transcript_id "g3.t1"; gene_id "g3";

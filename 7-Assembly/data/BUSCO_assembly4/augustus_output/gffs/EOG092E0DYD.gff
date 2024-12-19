@@ -1,0 +1,5 @@
+NODE_15_length_165883_cov_37.897617	AUGUSTUS	gene	91455	92339	1	-	.	g4
+NODE_15_length_165883_cov_37.897617	AUGUSTUS	transcript	91455	92339	1	-	.	g4.t1
+NODE_15_length_165883_cov_37.897617	AUGUSTUS	stop_codon	91455	91457	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_15_length_165883_cov_37.897617	AUGUSTUS	CDS	91458	92339	1	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_15_length_165883_cov_37.897617	AUGUSTUS	start_codon	92337	92339	.	-	0	transcript_id "g4.t1"; gene_id "g4";

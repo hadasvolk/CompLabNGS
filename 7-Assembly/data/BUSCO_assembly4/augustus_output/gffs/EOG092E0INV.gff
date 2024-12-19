@@ -1,0 +1,4 @@
+NODE_211_length_639_cov_82.070205	AUGUSTUS	gene	1	639	0.82	-	.	g1
+NODE_211_length_639_cov_82.070205	AUGUSTUS	transcript	1	639	0.82	-	.	g1.t1
+NODE_211_length_639_cov_82.070205	AUGUSTUS	intron	1	7	0.82	-	.	transcript_id "g1.t1"; gene_id "g1";
+NODE_211_length_639_cov_82.070205	AUGUSTUS	CDS	8	639	0.82	-	0	transcript_id "g1.t1"; gene_id "g1";

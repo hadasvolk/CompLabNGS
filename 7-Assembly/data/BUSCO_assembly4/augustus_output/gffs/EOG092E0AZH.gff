@@ -1,0 +1,16 @@
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	gene	76065	77419	0.01	-	.	g5
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	transcript	76065	77419	0.01	-	.	g5.t1
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	stop_codon	76065	76067	.	-	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	intron	76080	76261	0.01	-	.	transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	CDS	76068	76079	0.01	-	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	CDS	76262	77419	0.01	-	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	start_codon	77417	77419	.	-	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	76068	76079	1.38	-	0	target "unknown_J[79..82]"; target_start 308; transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	76262	76495	10.4	-	0	target "unknown_J[1..78]"; target_start 308; transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	76496	76603	8.64	-	0	target "unknown_I[1..36]"; target_start 272; transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	76610	76834	8.62	-	0	target "unknown_H[1..75]"; target_start 195; transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	76835	76894	6.54	-	0	target "unknown_G[1..20]"; target_start 175; transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	76901	77158	7.21	-	0	target "unknown_F[1..86]"; target_start 87; transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	77189	77218	8.57	-	0	target "unknown_D[1..10]"; target_start 67; transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	77336	77368	2.96	-	0	target "unknown_B[1..11]"; target_start 17; transcript_id "g5.t1"; gene_id "g5";
+NODE_13_length_175709_cov_37.194718	AUGUSTUS	protein_match	77375	77407	5.2	-	0	target "unknown_A[1..11]"; target_start 4; transcript_id "g5.t1"; gene_id "g5";

@@ -1,0 +1,7 @@
+NODE_40_length_103526_cov_38.150216	AUGUSTUS	gene	9409	9849	1	-	.	g4
+NODE_40_length_103526_cov_38.150216	AUGUSTUS	transcript	9409	9849	1	-	.	g4.t1
+NODE_40_length_103526_cov_38.150216	AUGUSTUS	stop_codon	9409	9411	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_40_length_103526_cov_38.150216	AUGUSTUS	CDS	9412	9849	1	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_40_length_103526_cov_38.150216	AUGUSTUS	start_codon	9847	9849	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_40_length_103526_cov_38.150216	AUGUSTUS	protein_match	9418	9567	9.47	-	0	target "unknown_B[1..50]"; target_start 94; transcript_id "g4.t1"; gene_id "g4";
+NODE_40_length_103526_cov_38.150216	AUGUSTUS	protein_match	9571	9846	7.44	-	0	target "unknown_A[1..92]"; target_start 1; transcript_id "g4.t1"; gene_id "g4";

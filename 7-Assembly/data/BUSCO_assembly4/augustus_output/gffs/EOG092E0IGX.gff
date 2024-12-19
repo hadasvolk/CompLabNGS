@@ -1,0 +1,7 @@
+NODE_86_length_43021_cov_38.225737	AUGUSTUS	gene	41858	42433	1	-	.	g2
+NODE_86_length_43021_cov_38.225737	AUGUSTUS	transcript	41858	42433	1	-	.	g2.t1
+NODE_86_length_43021_cov_38.225737	AUGUSTUS	stop_codon	41858	41860	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_86_length_43021_cov_38.225737	AUGUSTUS	CDS	41861	42433	1	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_86_length_43021_cov_38.225737	AUGUSTUS	start_codon	42431	42433	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_86_length_43021_cov_38.225737	AUGUSTUS	protein_match	41861	41980	11	-	0	target "unknown_B[1..40]"; target_start 151; transcript_id "g2.t1"; gene_id "g2";
+NODE_86_length_43021_cov_38.225737	AUGUSTUS	protein_match	41981	42433	11.6	-	0	target "unknown_A[1..151]"; target_start 0; transcript_id "g2.t1"; gene_id "g2";

@@ -1,0 +1,36 @@
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	gene	50354	53272	1	+	.	g5
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	transcript	50354	53272	1	+	.	g5.t1
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	start_codon	50354	50356	.	+	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	CDS	50354	53269	1	+	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	stop_codon	53270	53272	.	+	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	50423	50509	5.21	+	0	target "unknown_B[1..29]"; target_start 23; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	50522	50596	6.26	+	0	target "unknown_C[1..25]"; target_start 56; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	50597	50641	3.95	+	0	target "unknown_D[1..15]"; target_start 81; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	50648	50758	5.54	+	0	target "unknown_E[1..37]"; target_start 98; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	50759	50869	6.01	+	0	target "unknown_F[1..37]"; target_start 135; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	50870	50920	3.83	+	0	target "unknown_G[1..17]"; target_start 172; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	50957	51022	6.77	+	0	target "unknown_H[1..22]"; target_start 201; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	51026	51064	4.88	+	0	target "unknown_I[1..13]"; target_start 224; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	51080	51148	5.99	+	0	target "unknown_J[1..23]"; target_start 242; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	51155	51208	4.12	+	0	target "unknown_K[1..18]"; target_start 267; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	51245	51532	6.63	+	0	target "unknown_L[1..96]"; target_start 297; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	51536	51676	7.18	+	0	target "unknown_M[1..47]"; target_start 394; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	51677	51796	6.7	+	0	target "unknown_N[1..40]"; target_start 441; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	51797	51919	7.8	+	0	target "unknown_O[1..41]"; target_start 481; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	51938	52051	6.02	+	0	target "unknown_P[1..38]"; target_start 528; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52055	52120	6.78	+	0	target "unknown_Q[1..22]"; target_start 567; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52121	52192	2.56	+	0	target "unknown_R[1..24]"; target_start 589; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52214	52279	4.36	+	0	target "unknown_S[1..22]"; target_start 620; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52322	52363	3.64	+	0	target "unknown_U[1..14]"; target_start 656; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52370	52420	3.83	+	0	target "unknown_V[1..17]"; target_start 672; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52421	52558	6.37	+	0	target "unknown_W[1..46]"; target_start 689; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52574	52651	4.57	+	0	target "unknown_X[1..26]"; target_start 740; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52661	52744	5	+	0	target "unknown_Y[1..28]"; target_start 769; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52754	52798	3.43	+	0	target "unknown_Z[1..15]"; target_start 800; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52802	52897	6.45	+	0	target "unknown_AA[1..32]"; target_start 816; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52904	52942	4.25	+	0	target "unknown_AB[1..13]"; target_start 850; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	52946	53014	3.64	+	0	target "unknown_AC[1..23]"; target_start 864; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	53021	53062	5.14	+	0	target "unknown_AD[1..14]"; target_start 889; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	53081	53113	3.94	+	0	target "unknown_AE[1..11]"; target_start 909; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	53165	53218	4.99	+	0	target "unknown_AH[1..18]"; target_start 937; transcript_id "g5.t1"; gene_id "g5";
+NODE_53_length_84142_cov_39.096139	AUGUSTUS	protein_match	53222	53269	5.04	+	0	target "unknown_AI[1..16]"; target_start 956; transcript_id "g5.t1"; gene_id "g5";

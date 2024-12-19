@@ -1,0 +1,5 @@
+NODE_85_length_43106_cov_37.185919	AUGUSTUS	gene	31309	32406	1	-	.	g2
+NODE_85_length_43106_cov_37.185919	AUGUSTUS	transcript	31309	32406	1	-	.	g2.t1
+NODE_85_length_43106_cov_37.185919	AUGUSTUS	stop_codon	31309	31311	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_85_length_43106_cov_37.185919	AUGUSTUS	CDS	31312	32406	1	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_85_length_43106_cov_37.185919	AUGUSTUS	start_codon	32404	32406	.	-	0	transcript_id "g2.t1"; gene_id "g2";

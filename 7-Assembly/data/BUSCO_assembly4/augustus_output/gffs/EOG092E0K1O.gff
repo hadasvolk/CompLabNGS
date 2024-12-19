@@ -1,0 +1,5 @@
+NODE_69_length_65092_cov_38.236542	AUGUSTUS	gene	15145	15759	1	-	.	g4
+NODE_69_length_65092_cov_38.236542	AUGUSTUS	transcript	15145	15759	1	-	.	g4.t1
+NODE_69_length_65092_cov_38.236542	AUGUSTUS	stop_codon	15145	15147	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_69_length_65092_cov_38.236542	AUGUSTUS	CDS	15148	15759	1	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_69_length_65092_cov_38.236542	AUGUSTUS	start_codon	15757	15759	.	-	0	transcript_id "g4.t1"; gene_id "g4";

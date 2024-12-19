@@ -1,0 +1,297 @@
+# Please cite: Mario Stanke, Mark Diekhans, Robert Baertsch, David Haussler (2008),
+# Using native and syntenically mapped cDNA alignments to improve de novo gene finding
+# Bioinformatics 24: 637-644, doi 10.1093/bioinformatics/btn013
+# No extrinsic information on sequences given.
+# Initialising the parameters using config directory /groups/itay_mayrose/liorglic/miniconda3/envs/NGS_course/config/ ...
+# Using protein profile unknown
+# --[0..120]--> unknown_A (17) <--[5..24]--> unknown_B (10) <--[10..79]--> unknown_D (17) <--[9..26]--> unknown_F (22) <--[17..35]--> unknown_H (28) <--[10..32]--> unknown_J (13) <--[11..18]--> unknown_K (17) <--[13..37]--> unknown_M (23) <--[4..16]--> unknown_N (26) <--[0..17]--> unknown_O (29) <--[10..34]--> unknown_Q (13) <--[10..22]--> unknown_S (15) <--[2..15]--> unknown_T (24) <--[0..2]--> unknown_U (14) <--[0..18]--> unknown_V (44) <--[0..1]--> unknown_W (17) <--[0..2]--> unknown_X (23) <--[0..20]--> unknown_Y (27) <--[0..15]--> unknown_Z (11) <--[0..1]--> unknown_AA (13) <--[2..6]--> unknown_AB (19) <--[5..7]--> unknown_AC (21) <--[1..5]--> unknown_AD (19) <--[0..2]--> unknown_AE (19) <--[0..5]--> unknown_AF (32) <--[10..14]--> unknown_AH (21) <--[0..1]--> unknown_AI (15) <--[0..9]--> unknown_AJ (49) <--[6..15]--> unknown_AK (35) <--[0..6]--
+# saccharomyces_cerevisiae_S288C version. Using default transition matrix.
+# Looks like ./tmp/NODE_8_length_203896_cov_38.927669BUSCO_2182475112_.temp is in fasta format.
+# We have hints for 0 sequences and for 0 of the sequences in the input set.
+#
+# ----- prediction on sequence number 1 (length = 13231, name = NODE_8_length_203896_cov_38.927669) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1 on both strands
+# start gene g1
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	gene	51637	52344	1	-	.	g1
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	transcript	51637	52344	1	-	.	g1.t1
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	stop_codon	51637	51639	.	-	0	transcript_id "g1.t1"; gene_id "g1";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	CDS	51640	52344	1	-	0	transcript_id "g1.t1"; gene_id "g1";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	start_codon	52342	52344	.	-	0	transcript_id "g1.t1"; gene_id "g1";
+# coding sequence = [atgcattgggcagcagcggtagcgatattctttattgtggtcacaaagtttctacagtatacaaacaaataccacgaga
+# aatggatctctaaatttgcaccaggaaatgaattatccaaaaaatacttagccaaggtcaaagaacgtcatgaattaaaagaattcaacaactctatc
+# tccgcccaggataattatgccaaatggactaagaacaatagaaaattggactcgttagataaggaaataaataacttgaaggacgaaatacaatcaga
+# aaacaaagcctttcaggcccatcttcacaaactcaggttattggcattgacggtgccattttttgtgtttaagattatgtacggcaagacaccagttt
+# acaagttgagttcctcgactagcaccttgttccctacgtttgtaagtggtgtttggtctcaaggctggttatatgttctcttgcatcctctaaggact
+# atttctcagaaatggcatataatggagggcaaatttggtgcttccaagtttgatgatatggctttacagagtgtctctttgggaatctgggtttgggc
+# attgatgaatgtcatcaacggcgtggaatttatcgttaagcaattgtttttgactcccaaaatggaagcacctgcatctgtagagactcaagaggaga
+# aagccttggatgctgtcgacgatgccattattttagattag]
+# protein sequence = [MHWAAAVAIFFIVVTKFLQYTNKYHEKWISKFAPGNELSKKYLAKVKERHELKEFNNSISAQDNYAKWTKNNRKLDSL
+# DKEINNLKDEIQSENKAFQAHLHKLRLLALTVPFFVFKIMYGKTPVYKLSSSTSTLFPTFVSGVWSQGWLYVLLHPLRTISQKWHIMEGKFGASKFDD
+# MALQSVSLGIWVWALMNVINGVEFIVKQLFLTPKMEAPASVETQEEKALDAVDDAIILD]
+# end gene g1
+###
+# start gene g2
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	gene	52630	53466	1	+	.	g2
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	transcript	52630	53466	1	+	.	g2.t1
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	start_codon	52630	52632	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	CDS	52630	53463	1	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	stop_codon	53464	53466	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+# coding sequence = [atgtcgcaagagtttgtggaagactattcacgtacagggtcctcagacgacgaggatagtggagcttatgacgagtgga
+# ttccatcgttctgttccagatttggtcacgagtacttctgccaagttccgacagagtttatcgaggatgatttcaatatgacctcgttatcccaagag
+# gtaccccactaccggaaagctctggatttgatattagatttggaggctatgagtgatgaagaagaggacgaagacgacgtggtggaagaagacgaagt
+# ggatcaagagatgcagagtaatgacggtcatgatgaaggcaaaaggagaaacaagtcgccagtggtgaacaagagtattatcgagcacgcagcagaac
+# agttatacggattgatacatgcaagatttattctgaccaagccaggcctgcaagcaatggctgaaaaattcgaccacaaggaatttggaacgtgcccc
+# cgttactattgtaatggcatgcagttgctgccttgtgggttgagcgatacagttgggaaacacaccgtaaggttgtactgtcccagttgtcaggactt
+# gtatcttccccaatcatctagattcctgtgcttagaaggtgcattttgggggacaagcttccctggtgtgttcttgaaacatttcaaagaattggaag
+# agtatgtggaaaggaaaagtaaagagtcctacgagttgaaagtttttgggttcaggataaatgatgaggcagtgtctggtcctagaatgaagtggttg
+# agacaatatccatccacggaggaggactgggaagaatttgccaaatgcgagttcgagacaccggcggtttaa]
+# protein sequence = [MSQEFVEDYSRTGSSDDEDSGAYDEWIPSFCSRFGHEYFCQVPTEFIEDDFNMTSLSQEVPHYRKALDLILDLEAMSD
+# EEEDEDDVVEEDEVDQEMQSNDGHDEGKRRNKSPVVNKSIIEHAAEQLYGLIHARFILTKPGLQAMAEKFDHKEFGTCPRYYCNGMQLLPCGLSDTVG
+# KHTVRLYCPSCQDLYLPQSSRFLCLEGAFWGTSFPGVFLKHFKELEEYVERKSKESYELKVFGFRINDEAVSGPRMKWLRQYPSTEEDWEEFAKCEFE
+# TPAV]
+# end gene g2
+###
+# start gene g3
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	gene	53584	54138	1	-	.	g3
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	transcript	53584	54138	1	-	.	g3.t1
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	stop_codon	53584	53586	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	CDS	53587	54138	1	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	start_codon	54136	54138	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+# coding sequence = [atgttgaaatacttggttcaacgaagattcacttctacattttacgagctgttcccaaagaccttccccaaaaagctac
+# ccatttggactatcgatcaatccagattaaggaaggagtataggcaattacaagcacagcaccatccagacatggcccaacaaggtagtgaacagtca
+# tcaactcttaatcaagcttaccatactctcaaagatccccttagaaggtcacaatatatgctaaaactcttgcgcaatatcgatttgacgcaagaaca
+# gacctcacatgaagtaactaccagtgatccacagctattattgaaagttctagacatccatgatgaattatcccagatggacgacgaagctggtgtga
+# agctgcttgaaaagcaaaacaaggaaagaattcaagatattgaagcccagttgggacaatgctacaatgacaaggattacgccgccgcagtgaagttg
+# accgtggagctaaagtactggtacaacttagccaaggcattcaaagactgggctccaggaaaacaattggaaatgaatcactaa]
+# protein sequence = [MLKYLVQRRFTSTFYELFPKTFPKKLPIWTIDQSRLRKEYRQLQAQHHPDMAQQGSEQSSTLNQAYHTLKDPLRRSQY
+# MLKLLRNIDLTQEQTSHEVTTSDPQLLLKVLDIHDELSQMDDEAGVKLLEKQNKERIQDIEAQLGQCYNDKDYAAAVKLTVELKYWYNLAKAFKDWAP
+# GKQLEMNH]
+# end gene g3
+###
+# start gene g4
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	gene	54329	55840	0.97	+	.	g4
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	transcript	54329	55840	0.97	+	.	g4.t1
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	start_codon	54329	54331	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	CDS	54329	55837	0.97	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	stop_codon	55838	55840	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+# coding sequence = [atgtccgatagatacgttatttgggctccctcgatgcacaatgaacctgccgcaaagtgtgggtattgtcacggtaata
+# aggggggcaacatggatcagttgttcgcattggattcgtgggctcatcgttatatgaacaaaatggacgttgtaaagattgaaaactgcacaattggc
+# tctttcgtggaacatatggatgtagccacgtatgaccgcatgtgtaatatgggatttagaaggtctggtaagtttctttataaagtggacccgttgag
+# gaattgttgtaggttatacaccattcgaactgcccctcaagaattgaatatgacaaaggaattgaaaaaatgcatcagccgctttgctactagaataa
+# caagtgaggactactgcccagccgctgttgcaagcagtgattttgtgggcaaaattgttaatgcagagatgaattctaaaacattctatacccgattt
+# gagcccgcactttatagtgaagaaaagtatcacttatttgtcaaatatcaggaaaaagtgcatcaagactacaataattcgccgaagtcctttaagcg
+# attcctatgtgatacgccctttggccctgaagcggtgttggggacacaagaatcgtgggagcagttaaacaattggcagcgaatgaagccaggcgaga
+# aactgaagcatatgggtcctgtgcacgaatgctactactatgagggtaaattaattgccatcactgtgtcagatatcttgcccagtggtatatcttcg
+# gtatattttatttgggatccagactacagtaaatggtccctagggaagctcagtgctttgcgcgatcttgccatcattcaaaggacaaatctgcaata
+# ctattacctagggtactatattgaggactgtccgaagatgaattataaagcaaactatggtgcggaagtgctggatgtgtgtcacagtaaatatatcc
+# cattgaaaaccattcaggatatgatttctaggggcaaactctttgtcataggtgaagaagagacgaaagttactaaggagctctacctcgttgactct
+# gaaaccggaagaggggagggatttcccactgatagtgttgtcaagtacaagaatattgctgaggaaatatacggtatgggagggtgtgcgtttaaatc
+# tgcaaatgaatctgcattggaattgaaagaactttacggtataccgtacgaagaggaagacttagataccatctaccatttgaaagaacacaatggcc
+# atgctccaaatggtattcctaatgtggtgccgggattgctcccgctatgggaattgctggacattatgcaatctggcaagatcactgacctggaggga
+# agactatttctcttcgaaatcgaaacggaggggattcgaccattaattaacttttatagcgaacctccgaatgtcaagaaacgtatttgtgacgtgat
+# acggttatttggcttcgaaacttgtatgaaagccgtcattttatatagtgagcaaatgtga]
+# protein sequence = [MSDRYVIWAPSMHNEPAAKCGYCHGNKGGNMDQLFALDSWAHRYMNKMDVVKIENCTIGSFVEHMDVATYDRMCNMGF
+# RRSGKFLYKVDPLRNCCRLYTIRTAPQELNMTKELKKCISRFATRITSEDYCPAAVASSDFVGKIVNAEMNSKTFYTRFEPALYSEEKYHLFVKYQEK
+# VHQDYNNSPKSFKRFLCDTPFGPEAVLGTQESWEQLNNWQRMKPGEKLKHMGPVHECYYYEGKLIAITVSDILPSGISSVYFIWDPDYSKWSLGKLSA
+# LRDLAIIQRTNLQYYYLGYYIEDCPKMNYKANYGAEVLDVCHSKYIPLKTIQDMISRGKLFVIGEEETKVTKELYLVDSETGRGEGFPTDSVVKYKNI
+# AEEIYGMGGCAFKSANESALELKELYGIPYEEEDLDTIYHLKEHNGHAPNGIPNVVPGLLPLWELLDIMQSGKITDLEGRLFLFEIETEGIRPLINFY
+# SEPPNVKKRICDVIRLFGFETCMKAVILYSEQM]
+# end gene g4
+###
+# start gene g5
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	gene	56141	59386	1	+	.	g5
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	transcript	56141	59386	1	+	.	g5.t1
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	start_codon	56141	56143	.	+	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	CDS	56141	59383	1	+	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	stop_codon	59384	59386	.	+	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	56462	56512	6.68	+	0	target "unknown_A[1..17]"; target_start 107; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	56570	56599	4.94	+	0	target "unknown_B[1..10]"; target_start 143; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	56780	56830	5.14	+	0	target "unknown_D[1..17]"; target_start 213; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	56864	56929	3.92	+	0	target "unknown_F[1..22]"; target_start 241; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	57008	57091	3.78	+	0	target "unknown_H[1..28]"; target_start 289; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	57170	57208	6.05	+	0	target "unknown_J[1..13]"; target_start 343; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	57245	57295	4.9	+	0	target "unknown_K[1..17]"; target_start 368; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	57401	57469	5.44	+	0	target "unknown_M[1..23]"; target_start 420; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	57482	57559	3.53	+	0	target "unknown_N[1..26]"; target_start 447; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	57593	57679	4.32	+	0	target "unknown_O[1..29]"; target_start 484; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	57767	57805	4.62	+	0	target "unknown_Q[1..13]"; target_start 542; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	57866	57910	2.86	+	0	target "unknown_S[1..15]"; target_start 575; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	57935	58006	4.26	+	0	target "unknown_T[1..24]"; target_start 598; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58007	58048	3.43	+	0	target "unknown_U[1..14]"; target_start 622; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58100	58231	4.34	+	0	target "unknown_V[1..44]"; target_start 653; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58235	58285	4.59	+	0	target "unknown_W[1..17]"; target_start 698; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58292	58360	3.09	+	0	target "unknown_X[1..23]"; target_start 717; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58388	58468	4.36	+	0	target "unknown_Y[1..27]"; target_start 749; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58499	58531	3.92	+	0	target "unknown_Z[1..11]"; target_start 786; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58535	58573	3.63	+	0	target "unknown_AA[1..13]"; target_start 798; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58586	58642	3.92	+	0	target "unknown_AB[1..19]"; target_start 815; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58664	58726	4.1	+	0	target "unknown_AC[1..21]"; target_start 841; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58733	58789	3.99	+	0	target "unknown_AD[1..19]"; target_start 864; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58796	58852	3.54	+	0	target "unknown_AE[1..19]"; target_start 885; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58865	58960	4.19	+	0	target "unknown_AF[1..32]"; target_start 908; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	58994	59056	5.55	+	0	target "unknown_AH[1..21]"; target_start 951; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	59060	59104	3.09	+	0	target "unknown_AI[1..15]"; target_start 973; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	59105	59251	4.97	+	0	target "unknown_AJ[1..49]"; target_start 988; transcript_id "g5.t1"; gene_id "g5";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	protein_match	59270	59374	5.25	+	0	target "unknown_AK[1..35]"; target_start 1043; transcript_id "g5.t1"; gene_id "g5";
+# coding sequence = [atgagctccattcacgaggttgtggctctcattgaagagctgtactctcctcatccgaaacatgatgttaatcagattc
+# aacagagtttacagtcaatccagaaatcagagcaaggcttccacctagctaatgagcttttatctgatgacaagtactctgcgaatgtcaagtacttt
+# ggtgcactgactttaactgtgcaactaaatacacggggtgaaaacgattatgaaaccctatggaatgttttcaggtcaaatttattgtacttgacgaa
+# attcagtacattgtacgtttccaatcctaatatgtacgggcaatctctaatcataattaaaaagttaatgtcaaacttgtcattgatcttcactaaaa
+# tcaacgatccgcagcttaataacgctggaaatgaaaatatgattaagcaatggaacaatcccataaatacgtttattcaacttatgtcggttcaaaat
+# caaaacattaatgcagaccaactgttgcttgactcaatcaactgctccttaacgtacgaacaactgtctcaatttgttagcctatctcagaaacataa
+# tgaactggcattgacgtttacagaagttattgtggaagatttgacgaagttccaaacaaagaggcattcaatgtctcaaatccacgaagtagtccatg
+# agcatttatatatttcaactatggctttgatcaacttgaacttaactgcacaagctgtcttcaatcctaccgtatttgattgtattactgcttggatt
+# aattatatctcattaaccagaagcgtatcttcaagtggtagaatggatttgtcggaaatttttcaaaacctgattgacttgatgtatcagtctacaga
+# aggatcggacggttatgagaatgcggaaaagatcctaacaatatttggtaatgtttttgctaatgatccattattaatgagttacgatttgagacaac
+# aaatcgagtgtattttcttaggtgtagtaaggcctgattctggcataaccgacatatctaacaaaaattcttggatgctacaatatatgaattattta
+# gttaccaatgattttttttccgaattgaaggaattggccatttgtattgtggatttcttgcaaattaacacgttaagtgtttgtaataaattatttac
+# taacattcaagcagctgataatggtcaagttcaagatgaatatattcaggaatacatcaaagtccttttgcaaatgaccaatttccctttaattcctg
+# tcttacaagagttcttttctgttagaatggttgatttttggttggatttatcggatgcttacactaatttggctagcgaaactttgaggccaaattct
+# attgagctatctacacaaatttttcagcagttgatcaatatttatttacccaaaatttctttgagtgtgaaacaaagaataattgaagaagagggtga
+# gagcacttctgtgaacgaatttgaagattttagaaacgctgtcagtgaccttgctcaatctctctggtctattttgggaaacgataatttaacaaatg
+# tgctaattgatggtatgggccaaatgcctgctgcgagtgatgagactctcatcatcaaggatactgatgttttgtttcgaattgaaacgatgtgtttt
+# gttttgaatactatattggttgatatgactctatcggaaagcccatggattaaaaatatagttgatgccaacaaattcttcaaccaaaatgtcatatc
+# cgtcttccaaactggtttccaaactagtgccagtacaaaagtcagtcaaattttgaaacttgacttcgtaagaacaagtacaactttaatcggcactt
+# tggctggttattttaaacaggaaccttttcaattaaacccatacgtggaagctttatttcaaggtttgcacacttgcaccaattttactagtaaaaac
+# gaacaagaaaaaatttcgaacgataaacttgaagttatggttatcaagactgtttcaacattatgtgagacatgccgtgaggagttgactccatattt
+# gatgcattttataagctttttaaacacagtcattatgccagactccaatgtttcacatttcactagaactaaattggttagatctataggttatgtcg
+# ttcaatgtcaagtctccaacggtccagaggagcaagctaaatatattttacaattgacgaacctattgagcggctcaatagagcattgtttggcttca
+# tcggtacagttacaagaacaacaagattatattaattgtctattatactgtatatctgagctagcaacaagtttgatccagcctactgaaatcatcga
+# aaatgatgcattactacaaaggttatctgagtttcaaagtttctggtccagcgatcccttacaaatccgatcgaaaattatgtgcaccattgataagg
+# tcttggataattcaatatattgtaaaaactccgcctttgtggagatcggttgtttgattgttggtaaaggattaaatctgcccgacggggaaccgtac
+# ttcctcaagtacaatatgtccgaagttatgaattttgttttgcggcatgtccccaactgtgagcttgctacttgcttgccttattttgtttatttatt
+# agaaaagcttatttcagagttcaggaaggaactaacaccacaagaatttgatttcatgtttgaaaagatccttttagtctattatgatgcatatatta
+# tcaatgatccggaccttttacaaatgacaataggttttgttaataacgttttggacgtgaagccaggcttagctattggcagtaaacattggacatca
+# tttattttacctcaatttttaaaattaataccttcaagagaaaagttcacaattgttgcggtggcaaaattttggactaagttgatcaataataagaa
+# atacaaccaagaagaactcacaactgttaggcaacaagtttcctctataggaggagaccttgtgtaccaaattatgtatggcttattccacacacaaa
+# ggtccgatctgaatagttacacagatctgctaagagctttggtagccaagtttccaattgaagcaagagagtggctcgttgctgttttgccccaaata
+# tgtaacaatcctgcaggtcatgaaaaatttattaataaattacttattacgagaggaagcagagcagctggaaatgttattttgcagtggtggttgga
+# ttgtaccacacttccaaattaccaaggatga]
+# protein sequence = [MSSIHEVVALIEELYSPHPKHDVNQIQQSLQSIQKSEQGFHLANELLSDDKYSANVKYFGALTLTVQLNTRGENDYET
+# LWNVFRSNLLYLTKFSTLYVSNPNMYGQSLIIIKKLMSNLSLIFTKINDPQLNNAGNENMIKQWNNPINTFIQLMSVQNQNINADQLLLDSINCSLTY
+# EQLSQFVSLSQKHNELALTFTEVIVEDLTKFQTKRHSMSQIHEVVHEHLYISTMALINLNLTAQAVFNPTVFDCITAWINYISLTRSVSSSGRMDLSE
+# IFQNLIDLMYQSTEGSDGYENAEKILTIFGNVFANDPLLMSYDLRQQIECIFLGVVRPDSGITDISNKNSWMLQYMNYLVTNDFFSELKELAICIVDF
+# LQINTLSVCNKLFTNIQAADNGQVQDEYIQEYIKVLLQMTNFPLIPVLQEFFSVRMVDFWLDLSDAYTNLASETLRPNSIELSTQIFQQLINIYLPKI
+# SLSVKQRIIEEEGESTSVNEFEDFRNAVSDLAQSLWSILGNDNLTNVLIDGMGQMPAASDETLIIKDTDVLFRIETMCFVLNTILVDMTLSESPWIKN
+# IVDANKFFNQNVISVFQTGFQTSASTKVSQILKLDFVRTSTTLIGTLAGYFKQEPFQLNPYVEALFQGLHTCTNFTSKNEQEKISNDKLEVMVIKTVS
+# TLCETCREELTPYLMHFISFLNTVIMPDSNVSHFTRTKLVRSIGYVVQCQVSNGPEEQAKYILQLTNLLSGSIEHCLASSVQLQEQQDYINCLLYCIS
+# ELATSLIQPTEIIENDALLQRLSEFQSFWSSDPLQIRSKIMCTIDKVLDNSIYCKNSAFVEIGCLIVGKGLNLPDGEPYFLKYNMSEVMNFVLRHVPN
+# CELATCLPYFVYLLEKLISEFRKELTPQEFDFMFEKILLVYYDAYIINDPDLLQMTIGFVNNVLDVKPGLAIGSKHWTSFILPQFLKLIPSREKFTIV
+# AVAKFWTKLINNKKYNQEELTTVRQQVSSIGGDLVYQIMYGLFHTQRSDLNSYTDLLRALVAKFPIEAREWLVAVLPQICNNPAGHEKFINKLLITRG
+# SRAAGNVILQWWLDCTTLPNYQG]
+# sequence of block unknown_A   107 [LIIIKKLMSNLSLIFTK] 124
+# sequence of block unknown_B   143 [NPINTFIQLM] 153
+# sequence of block unknown_D   213 [MSQIHEVVHEHLYISTM] 230
+# sequence of block unknown_F   241 [VFNPTVFDCITAWINYISLTRS] 263
+# sequence of block unknown_H   289 [SDGYENAEKILTIFGNVFANDPLLMSYD] 317
+# sequence of block unknown_J   343 [SWMLQYMNYLVTN] 356
+# sequence of block unknown_K   368 [IVDFLQINTLSVCNKLF] 385
+# sequence of block unknown_M   420 [QEFFSVRMVDFWLDLSDAYTNLA] 443
+# sequence of block unknown_N   447 [RPNSIELSTQIFQQLINIYLPKISLS] 473
+# sequence of block unknown_O   484 [STSVNEFEDFRNAVSDLAQSLWSILGNDN] 513
+# sequence of block unknown_Q   542 [RIETMCFVLNTIL] 555
+# sequence of block unknown_S   575 [FNQNVISVFQTGFQT] 590
+# sequence of block unknown_T   598 [ILKLDFVRTSTTLIGTLAGYFKQE] 622
+# sequence of block unknown_U   622 [PFQLNPYVEALFQG] 636
+# sequence of block unknown_V   653 [NDKLEVMVIKTVSTLCETCREELTPYLMHFISFLNTVIMPDSNV] 697
+# sequence of block unknown_W   698 [HFTRTKLVRSIGYVVQC] 715
+# sequence of block unknown_X   717 [SNGPEEQAKYILQLTNLLSGSIE] 740
+# sequence of block unknown_Y   749 [QEQQDYINCLLYCISELATSLIQPTEI] 776
+# sequence of block unknown_Z   786 [SEFQSFWSSDP] 797
+# sequence of block unknown_AA  798 [QIRSKIMCTIDKV] 811
+# sequence of block unknown_AB  815 [IYCKNSAFVEIGCLIVGKG] 834
+# sequence of block unknown_AC  841 [PYFLKYNMSEVMNFVLRHVPN] 862
+# sequence of block unknown_AD  864 [LATCLPYFVYLLEKLISEF] 883
+# sequence of block unknown_AE  885 [ELTPQEFDFMFEKILLVYY] 904
+# sequence of block unknown_AF  908 [INDPDLLQMTIGFVNNVLDVKPGLAIGSKHWT] 940
+# sequence of block unknown_AH  951 [PSREKFTIVAVAKFWTKLINN] 972
+# sequence of block unknown_AI  973 [KYNQEELTTVRQQVS] 988
+# sequence of block unknown_AJ  988 [SIGGDLVYQIMYGLFHTQRSDLNSYTDLLRALVAKFPIEAREWLVAVLP] 1037
+# sequence of block unknown_AK 1043 [AGHEKFINKLLITRGSRAAGNVILQWWLDCTTLPN] 1078
+# end gene g5
+###
+# start gene g6
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	gene	59518	59910	0.99	-	.	g6
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	transcript	59518	59910	0.99	-	.	g6.t1
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	stop_codon	59518	59520	.	-	0	transcript_id "g6.t1"; gene_id "g6";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	CDS	59521	59910	0.99	-	0	transcript_id "g6.t1"; gene_id "g6";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	start_codon	59908	59910	.	-	0	transcript_id "g6.t1"; gene_id "g6";
+# coding sequence = [atggaagacacgatacgtccattaaattacgcagatatcgagaccagcgggcccataaaccttcttgagacaactaata
+# acctaaaaagctcgttaaaaaagttttcacaaaaggcaaagggatcgcacatttccagagaaaggattcaccattttagaaaatggaaaaataagacc
+# gaatcactttcagaaaaccatttgaagcctcctcctgacgtcgactctctatgtttcagtaactgctttcaacctgacgccctgtctggaaatgtatt
+# tttaccccccagaagctcaaacatgtattggaatgaaaagcagttacaattagaaatggaaattctaaagtttttatcactaaatactagcaatgaat
+# gctgcacttctgatgattag]
+# protein sequence = [MEDTIRPLNYADIETSGPINLLETTNNLKSSLKKFSQKAKGSHISRERIHHFRKWKNKTESLSENHLKPPPDVDSLCF
+# SNCFQPDALSGNVFLPPRSSNMYWNEKQLQLEMEILKFLSLNTSNECCTSDD]
+# end gene g6
+###
+# start gene g7
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	gene	60614	63298	0.98	+	.	g7
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	transcript	60614	63298	0.98	+	.	g7.t1
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	start_codon	60614	60616	.	+	0	transcript_id "g7.t1"; gene_id "g7";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	CDS	60614	63295	0.98	+	0	transcript_id "g7.t1"; gene_id "g7";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	stop_codon	63296	63298	.	+	0	transcript_id "g7.t1"; gene_id "g7";
+# coding sequence = [atgtctacaaaaggtttgaaagaagaaatcgatgatgtaccatcagtagaccctgtcgtttcagaaacagtcaattctg
+# ctttagagcagttgcaactagatgatccagaggaaaacgccacctctaatgcatttgcgaataaagtttctcaagattctcaatttgctaatggccct
+# ccgtcgcaaatgtttccacatccacaaatgatgggtggaatgggcttcatgccttactctcaaatgatgcaggttcctcataatccctgtccattttt
+# tccgccccctgattttaatgatccaacagcaccattgagtagctcgcccttgaatgcaggcggtccaccaatgttattcaagaatgactcacttccat
+# ttcaaatgctgtcttcgggtgctgcggtagcaactcaaggtggacaaaatctaaacccattgataaatgacaattcaatgaaggtattgccaatcgca
+# tcggctgatccgttatggactcattcaaacgtaccaggatcagcatctgtagccattgaagaaaccaccgctactctacaagaaagcctaccatctaa
+# gggcagggagtctaataataaggctagttcgttcagaagacaaacttttcatgctttatcaccaactgaccttatcaatgcggccaacaatgtaacct
+# tgtcaaaggacttccaatctgacatgcagaatttttctaaggctaagaaaccgtctgtaggagctaacaatactgcaaaaaccagaactcaatccata
+# tcttttgataatactccctcctcaacgtcatttatacccccaaccaatagtgtttctgagaaattatctgatttcaaaatagaagaaacctcgaagga
+# ggatttgattaataaaactgcaccagctaaaaaagagagtcctacaacttatggtgcagcatatccatatgggggacctttacttcaaccaaatccta
+# ttatgccaggccacccacataatatatcctcccctatctatggtattagatcaccttttcctaattcttatgaaatgggcgcgcaatttcaacctttc
+# tctccgattttaaatcctacgagtcattcactaaatgcaaattctccaattcctctaacccaatcgccaattcatcttgctccagttttaaaccctag
+# ttcaaattctgttgccttttcagatatgaagaatgatggtggtaagcccaccaccgataacgacaaggcgggtccaaatgttagaatggattcaataa
+# atcctaatcttgggccatcaatgcaacctttccacatattacctccccagcaaaacactccccctcctccctggctttatggcactccacctcccttc
+# aacgcaatggttccgcctcatttgttggctcaaaatcatatgccgttaatgaatagcgccaataataaacatcatggtcgtaataacaatagcatgtc
+# aagtcataatgacaatgacaacattggtaattctaattacaacaataaagacacaggtcgttctaacgttggtaaaatgaaaaatatgaaaaacagtt
+# atcatggctactataataacaataataataataataataataataataataataataataataacaataataacagtaatgctaccaacagcaacagc
+# gcggaaaaacaacgtaaaattgaggagtcgtcgagatttgcggacgcagttttagaccaatatatcggaagtattcactcattgtgtaaagaccaaca
+# tggttgtcgttttctgcaaaagcagttggatattctcggcagtaaggcggcggacgcaatttttgaagaaactaaggattatacggttgaattgatga
+# ctgattcattcggtaattatttgatccagaagctattggaagaggttaccacagaacaaagaatcgtactcacaaaaatatcttcccctcattttgtc
+# gaaatttccttaaaccctcatggtactagggcattacaaaaactcattgaatgcatcaaaacagatgaagaagcacagattgttgttgattctttacg
+# cccttatactgtccagttgagtaaggatttaaatggtaatcatgttattcaaaaatgtttgcaaaggttgaagcctgaaaacttccagtttatctttg
+# acgcaatctctgatagctgtattgatattgctactcatagacacgggtgttgcgttttgcaacgttgtctagatcatgggactacagaacaatgtgac
+# aatctgtgtgataagttgctagcccttgttgataaattaactttggatccatttggcaactatgtggtgcaatatataattaccaaagaggctgagaa
+# gaacaaatatgattatacgcataaaattgtccacctgttgaaaccaagagccatcgaactttctatccataaatttggatcaaatgtgattgaaaaaa
+# tcttgaagacagctattgtttcggagccaatgattctggaaattttaaataatggtggcgagacgggtattcaatcattgttgaatgatagctacgga
+# aattacgttttacagacagcattagacatttctcataagcaaaatgactatctctatagaagactatcagagattgtggcgcctttactggtgggccc
+# cataagaaatacacctcatggtaaaagaatcatcggaatgttacatttagattcatag]
+# protein sequence = [MSTKGLKEEIDDVPSVDPVVSETVNSALEQLQLDDPEENATSNAFANKVSQDSQFANGPPSQMFPHPQMMGGMGFMPY
+# SQMMQVPHNPCPFFPPPDFNDPTAPLSSSPLNAGGPPMLFKNDSLPFQMLSSGAAVATQGGQNLNPLINDNSMKVLPIASADPLWTHSNVPGSASVAI
+# EETTATLQESLPSKGRESNNKASSFRRQTFHALSPTDLINAANNVTLSKDFQSDMQNFSKAKKPSVGANNTAKTRTQSISFDNTPSSTSFIPPTNSVS
+# EKLSDFKIEETSKEDLINKTAPAKKESPTTYGAAYPYGGPLLQPNPIMPGHPHNISSPIYGIRSPFPNSYEMGAQFQPFSPILNPTSHSLNANSPIPL
+# TQSPIHLAPVLNPSSNSVAFSDMKNDGGKPTTDNDKAGPNVRMDSINPNLGPSMQPFHILPPQQNTPPPPWLYGTPPPFNAMVPPHLLAQNHMPLMNS
+# ANNKHHGRNNNSMSSHNDNDNIGNSNYNNKDTGRSNVGKMKNMKNSYHGYYNNNNNNNNNNNNNNNNNNNNSNATNSNSAEKQRKIEESSRFADAVLD
+# QYIGSIHSLCKDQHGCRFLQKQLDILGSKAADAIFEETKDYTVELMTDSFGNYLIQKLLEEVTTEQRIVLTKISSPHFVEISLNPHGTRALQKLIECI
+# KTDEEAQIVVDSLRPYTVQLSKDLNGNHVIQKCLQRLKPENFQFIFDAISDSCIDIATHRHGCCVLQRCLDHGTTEQCDNLCDKLLALVDKLTLDPFG
+# NYVVQYIITKEAEKNKYDYTHKIVHLLKPRAIELSIHKFGSNVIEKILKTAIVSEPMILEILNNGGETGIQSLLNDSYGNYVLQTALDISHKQNDYLY
+# RRLSEIVAPLLVGPIRNTPHGKRIIGMLHLDS]
+# end gene g7
+###
+# start gene g8
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	gene	63581	64339	0.99	-	.	g8
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	transcript	63581	64339	0.99	-	.	g8.t1
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	stop_codon	63581	63583	.	-	0	transcript_id "g8.t1"; gene_id "g8";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	CDS	63584	64339	0.99	-	0	transcript_id "g8.t1"; gene_id "g8";
+NODE_8_length_203896_cov_38.927669	AUGUSTUS	start_codon	64337	64339	.	-	0	transcript_id "g8.t1"; gene_id "g8";
+# coding sequence = [atgcttttggcatacggagagtcctctagcaccaacctcgatgttatctccaaatatattgatgagaatgcgccagatt
+# taaaaggtataatagaacttgtcttggatacaaactcttgcgcttatcgatttttattagaacctgttcagaagtcaggattccatttaacggtctca
+# caaatgttgaaaaatagaaagtttcaggaaccactaatgtcaaatgaagataataagcagatgaagcataattcgggaaaaaatttgaatccggatct
+# cccaagtcttaagacgggcacttcatgcttactaaatggcattgaatcgcctcaattgccattcaatggtcgctcagcaccttccccagtgagaaaca
+# actcactaccggagtttgcacaattgccttcatttaggtcattatccgtgtctgatatgatcaatcccgattacgcgcaaccaacaaatgggcaaaat
+# aatacgcaagtccaatctaataaaccaatcaatgctcagcagcaaatacccacttcagtacaagtaccatttatgaacacaaatgaaatcaataacaa
+# caacaacaacaacaacaacaacaacaacaacaaaaacaataaaaacaatattaacaatattaacaacaacaacagtaacaatttttctgcaactagtt
+# ttaatttggggacactagatgaatttgttaataacggtgatcttgaggacctctacagtatcctgtggagcgacgtttatccagatagttaa]
+# protein sequence = [MLLAYGESSSTNLDVISKYIDENAPDLKGIIELVLDTNSCAYRFLLEPVQKSGFHLTVSQMLKNRKFQEPLMSNEDNK
+# QMKHNSGKNLNPDLPSLKTGTSCLLNGIESPQLPFNGRSAPSPVRNNSLPEFAQLPSFRSLSVSDMINPDYAQPTNGQNNTQVQSNKPINAQQQIPTS
+# VQVPFMNTNEINNNNNNNNNNNNNKNNKNNINNINNNNSNNFSATSFNLGTLDEFVNNGDLEDLYSILWSDVYPDS]
+# end gene g8
+###
+# command line:
+# /groups/itay_mayrose/liorglic/miniconda3/envs/NGS_course/bin/augustus --codingseq=1 --proteinprofile=/groups/itay_mayrose/nosnap/liorglic/NGS_course/master/lesson6/saccharomycetales_odb9/prfl/EOG092E00UK.prfl --predictionStart=51150  --predictionEnd=64380  --species=saccharomyces_cerevisiae_S288C ./tmp/NODE_8_length_203896_cov_38.927669BUSCO_2182475112_.temp

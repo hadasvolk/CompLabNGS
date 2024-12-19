@@ -1,0 +1,5 @@
+NODE_41_length_103215_cov_37.184383	AUGUSTUS	gene	54827	58003	0.89	-	.	g4
+NODE_41_length_103215_cov_37.184383	AUGUSTUS	transcript	54827	58003	0.89	-	.	g4.t1
+NODE_41_length_103215_cov_37.184383	AUGUSTUS	stop_codon	54827	54829	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_41_length_103215_cov_37.184383	AUGUSTUS	CDS	54830	58003	0.89	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_41_length_103215_cov_37.184383	AUGUSTUS	start_codon	58001	58003	.	-	0	transcript_id "g4.t1"; gene_id "g4";

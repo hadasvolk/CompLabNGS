@@ -1,0 +1,15 @@
+# BUSCO version is: 3.0.2 
+# The lineage dataset is: saccharomycetales_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1711)
+# To reproduce this run: python /groups/itay_mayrose/liorglic/miniconda3/envs/NGS_course/bin/run_busco -i scaffolds.fasta -o BUSCO -l /groups/itay_mayrose/nosnap/liorglic/NGS_course/master/lesson6/saccharomycetales_odb9/ -m genome -c 30 -sp saccharomyces_cerevisiae_S288C
+#
+# Summarized benchmarking in BUSCO notation for file scaffolds.fasta
+# BUSCO was run in mode: genome
+
+	C:98.4%[S:97.9%,D:0.5%],F:0.5%,M:1.1%,n:1711
+
+	1684	Complete BUSCOs (C)
+	1675	Complete and single-copy BUSCOs (S)
+	9	Complete and duplicated BUSCOs (D)
+	8	Fragmented BUSCOs (F)
+	19	Missing BUSCOs (M)
+	1711	Total BUSCO groups searched

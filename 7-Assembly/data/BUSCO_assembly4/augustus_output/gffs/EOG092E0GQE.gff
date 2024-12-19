@@ -1,0 +1,6 @@
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	gene	20048	20785	1	-	.	g2
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	transcript	20048	20785	1	-	.	g2.t1
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	stop_codon	20048	20050	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	CDS	20051	20785	1	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	start_codon	20783	20785	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_26_length_128386_cov_37.385480	AUGUSTUS	protein_match	20075	20785	11.4	-	0	target "unknown_A[1..237]"; target_start 0; transcript_id "g2.t1"; gene_id "g2";

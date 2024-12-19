@@ -1,0 +1,5 @@
+NODE_70_length_63941_cov_38.941787	AUGUSTUS	gene	17208	18032	1	-	.	g3
+NODE_70_length_63941_cov_38.941787	AUGUSTUS	transcript	17208	18032	1	-	.	g3.t1
+NODE_70_length_63941_cov_38.941787	AUGUSTUS	stop_codon	17208	17210	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_70_length_63941_cov_38.941787	AUGUSTUS	CDS	17211	18032	1	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_70_length_63941_cov_38.941787	AUGUSTUS	start_codon	18030	18032	.	-	0	transcript_id "g3.t1"; gene_id "g3";

@@ -1,0 +1,15 @@
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	gene	1463	2470	1	+	.	g1
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	transcript	1463	2470	1	+	.	g1.t1
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	start_codon	1463	1465	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	CDS	1463	2467	1	+	0	transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	stop_codon	2468	2470	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	protein_match	1463	1630	6.44	+	0	target "unknown_A[1..56]"; target_start 0; transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	protein_match	1646	1714	3.23	+	0	target "unknown_B[1..23]"; target_start 61; transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	protein_match	1733	1777	5.49	+	0	target "unknown_C[1..15]"; target_start 90; transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	protein_match	1781	1810	5.58	+	0	target "unknown_D[1..10]"; target_start 106; transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	protein_match	1823	1918	5.93	+	0	target "unknown_E[1..32]"; target_start 120; transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	protein_match	1922	1972	4.27	+	0	target "unknown_F[1..17]"; target_start 153; transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	protein_match	1976	2032	6.45	+	0	target "unknown_G[1..19]"; target_start 171; transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	protein_match	2102	2263	4.97	+	0	target "unknown_H[1..54]"; target_start 213; transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	protein_match	2267	2347	6.41	+	0	target "unknown_I[1..27]"; target_start 268; transcript_id "g1.t1"; gene_id "g1";
+NODE_75_length_61241_cov_41.526264	AUGUSTUS	protein_match	2351	2392	3.39	+	0	target "unknown_J[1..14]"; target_start 296; transcript_id "g1.t1"; gene_id "g1";

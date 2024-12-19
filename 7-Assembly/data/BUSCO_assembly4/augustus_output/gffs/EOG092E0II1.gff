@@ -1,0 +1,10 @@
+NODE_116_length_17309_cov_49.565260	AUGUSTUS	gene	2562	3278	0.99	+	.	g2
+NODE_116_length_17309_cov_49.565260	AUGUSTUS	transcript	2562	3278	0.99	+	.	g2.t1
+NODE_116_length_17309_cov_49.565260	AUGUSTUS	start_codon	2562	2564	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_116_length_17309_cov_49.565260	AUGUSTUS	CDS	2562	3275	0.99	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_116_length_17309_cov_49.565260	AUGUSTUS	stop_codon	3276	3278	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_116_length_17309_cov_49.565260	AUGUSTUS	protein_match	2562	2729	9.85	+	0	target "unknown_A[1..56]"; target_start 0; transcript_id "g2.t1"; gene_id "g2";
+NODE_116_length_17309_cov_49.565260	AUGUSTUS	protein_match	2784	2822	4.03	+	0	target "unknown_B[1..13]"; target_start 74; transcript_id "g2.t1"; gene_id "g2";
+NODE_116_length_17309_cov_49.565260	AUGUSTUS	protein_match	2823	2888	8.67	+	0	target "unknown_C[1..22]"; target_start 87; transcript_id "g2.t1"; gene_id "g2";
+NODE_116_length_17309_cov_49.565260	AUGUSTUS	protein_match	2889	3179	9.25	+	0	target "unknown_D[1..97]"; target_start 109; transcript_id "g2.t1"; gene_id "g2";
+NODE_116_length_17309_cov_49.565260	AUGUSTUS	protein_match	3210	3236	5.84	+	0	target "unknown_E[1..9]"; target_start 216; transcript_id "g2.t1"; gene_id "g2";

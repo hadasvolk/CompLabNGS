@@ -1,0 +1,7 @@
+NODE_35_length_108403_cov_41.344455	AUGUSTUS	gene	20625	21068	1	+	.	g4
+NODE_35_length_108403_cov_41.344455	AUGUSTUS	transcript	20625	21068	1	+	.	g4.t1
+NODE_35_length_108403_cov_41.344455	AUGUSTUS	start_codon	20625	20627	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_35_length_108403_cov_41.344455	AUGUSTUS	CDS	20625	21065	1	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_35_length_108403_cov_41.344455	AUGUSTUS	stop_codon	21066	21068	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_35_length_108403_cov_41.344455	AUGUSTUS	protein_match	20643	20996	7.98	+	0	target "unknown_A[1..118]"; target_start 6; transcript_id "g4.t1"; gene_id "g4";
+NODE_35_length_108403_cov_41.344455	AUGUSTUS	protein_match	20997	21065	5.89	+	0	target "unknown_B[1..23]"; target_start 124; transcript_id "g4.t1"; gene_id "g4";

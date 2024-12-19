@@ -1,0 +1,5 @@
+NODE_16_length_162425_cov_39.423108	AUGUSTUS	gene	159954	161786	0.97	-	.	g4
+NODE_16_length_162425_cov_39.423108	AUGUSTUS	transcript	159954	161786	0.97	-	.	g4.t1
+NODE_16_length_162425_cov_39.423108	AUGUSTUS	stop_codon	159954	159956	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_16_length_162425_cov_39.423108	AUGUSTUS	CDS	159957	161786	0.97	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_16_length_162425_cov_39.423108	AUGUSTUS	start_codon	161784	161786	.	-	0	transcript_id "g4.t1"; gene_id "g4";

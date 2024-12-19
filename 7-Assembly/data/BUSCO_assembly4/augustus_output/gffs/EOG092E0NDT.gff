@@ -1,0 +1,6 @@
+NODE_68_length_65137_cov_36.859608	AUGUSTUS	gene	43984	44784	0.98	-	.	g4
+NODE_68_length_65137_cov_36.859608	AUGUSTUS	transcript	43984	44784	0.98	-	.	g4.t1
+NODE_68_length_65137_cov_36.859608	AUGUSTUS	stop_codon	43984	43986	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_68_length_65137_cov_36.859608	AUGUSTUS	CDS	43987	44784	0.98	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_68_length_65137_cov_36.859608	AUGUSTUS	start_codon	44782	44784	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_68_length_65137_cov_36.859608	AUGUSTUS	protein_match	44074	44355	6.08	-	0	target "unknown_A[1..94]"; target_start 143; transcript_id "g4.t1"; gene_id "g4";

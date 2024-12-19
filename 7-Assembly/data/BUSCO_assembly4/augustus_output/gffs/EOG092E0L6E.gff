@@ -1,0 +1,15 @@
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	gene	39563	40339	0.42	+	.	g4
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	transcript	39563	40339	0.42	+	.	g4.t1
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	start_codon	39563	39565	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	CDS	39563	40336	0.42	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	stop_codon	40337	40339	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	protein_match	39593	39628	2.73	+	0	target "unknown_B[1..12]"; target_start 10; transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	protein_match	39638	39733	4.5	+	0	target "unknown_C[1..32]"; target_start 25; transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	protein_match	39740	39787	5.97	+	0	target "unknown_D[1..16]"; target_start 59; transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	protein_match	39788	39856	5.97	+	0	target "unknown_E[1..23]"; target_start 75; transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	protein_match	39869	39940	3.69	+	0	target "unknown_F[1..24]"; target_start 102; transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	protein_match	39950	40093	4.87	+	0	target "unknown_G[1..48]"; target_start 129; transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	protein_match	40097	40147	3.02	+	0	target "unknown_H[1..17]"; target_start 178; transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	protein_match	40157	40207	4.1	+	0	target "unknown_I[1..17]"; target_start 198; transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	protein_match	40211	40258	3.07	+	0	target "unknown_J[1..16]"; target_start 216; transcript_id "g4.t1"; gene_id "g4";
+NODE_63_length_71111_cov_39.342181	AUGUSTUS	protein_match	40271	40327	3.23	+	0	target "unknown_K[1..19]"; target_start 236; transcript_id "g4.t1"; gene_id "g4";

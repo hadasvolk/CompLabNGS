@@ -1,0 +1,8 @@
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	gene	1871	2821	1	+	.	g1
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	transcript	1871	2821	1	+	.	g1.t1
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	start_codon	1871	1873	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	CDS	1871	2818	1	+	0	transcript_id "g1.t1"; gene_id "g1";
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	stop_codon	2819	2821	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	protein_match	2177	2668	8.36	+	0	target "unknown_D[1..164]"; target_start 102; transcript_id "g1.t1"; gene_id "g1";
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	protein_match	2693	2770	4.78	+	0	target "unknown_E[1..26]"; target_start 274; transcript_id "g1.t1"; gene_id "g1";
+NODE_28_length_124187_cov_40.500371	AUGUSTUS	protein_match	2789	2818	3.9	+	0	target "unknown_F[1..10]"; target_start 306; transcript_id "g1.t1"; gene_id "g1";

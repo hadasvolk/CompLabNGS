@@ -1,0 +1,11 @@
+NODE_34_length_108592_cov_37.662493	AUGUSTUS	gene	57251	57949	0.98	+	.	g4
+NODE_34_length_108592_cov_37.662493	AUGUSTUS	transcript	57251	57949	0.98	+	.	g4.t1
+NODE_34_length_108592_cov_37.662493	AUGUSTUS	start_codon	57251	57253	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_34_length_108592_cov_37.662493	AUGUSTUS	CDS	57251	57946	0.98	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_34_length_108592_cov_37.662493	AUGUSTUS	stop_codon	57947	57949	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_34_length_108592_cov_37.662493	AUGUSTUS	protein_match	57329	57394	4.99	+	0	target "unknown_A[1..22]"; target_start 26; transcript_id "g4.t1"; gene_id "g4";
+NODE_34_length_108592_cov_37.662493	AUGUSTUS	protein_match	57395	57562	8.34	+	0	target "unknown_B[1..56]"; target_start 48; transcript_id "g4.t1"; gene_id "g4";
+NODE_34_length_108592_cov_37.662493	AUGUSTUS	protein_match	57566	57709	9.68	+	0	target "unknown_C[1..48]"; target_start 105; transcript_id "g4.t1"; gene_id "g4";
+NODE_34_length_108592_cov_37.662493	AUGUSTUS	protein_match	57713	57838	6.63	+	0	target "unknown_D[1..42]"; target_start 154; transcript_id "g4.t1"; gene_id "g4";
+NODE_34_length_108592_cov_37.662493	AUGUSTUS	protein_match	57848	57913	3.81	+	0	target "unknown_E[1..22]"; target_start 199; transcript_id "g4.t1"; gene_id "g4";
+NODE_34_length_108592_cov_37.662493	AUGUSTUS	protein_match	57914	57946	6.89	+	0	target "unknown_F[1..11]"; target_start 221; transcript_id "g4.t1"; gene_id "g4";

@@ -1,0 +1,23 @@
+# BUSCO version is: 3.0.2 
+# The lineage dataset is: saccharomycetales_odb9 (Creation date: 2016-02-13, number of species: 30, number of BUSCOs: 1711)
+# To reproduce this run: python /groups/itay_mayrose/liorglic/miniconda3/envs/NGS_course/bin/run_busco -i scaffolds.fasta -o BUSCO -l /groups/itay_mayrose/nosnap/liorglic/NGS_course/master/lesson6/saccharomycetales_odb9/ -m genome -c 30 -sp saccharomyces_cerevisiae_S288C
+#
+EOG092E099G
+EOG092E0C00
+EOG092E0C9D
+EOG092E0CS5
+EOG092E0CXN
+EOG092E0EZD
+EOG092E0F98
+EOG092E0HAO
+EOG092E0HJL
+EOG092E0ICJ
+EOG092E0J0C
+EOG092E0KWL
+EOG092E0LAB
+EOG092E0LIO
+EOG092E0LS2
+EOG092E0LTB
+EOG092E0M17
+EOG092E0NM6
+EOG092E0NVI

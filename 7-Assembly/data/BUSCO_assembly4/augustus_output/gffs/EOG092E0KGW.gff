@@ -1,0 +1,8 @@
+NODE_92_length_39131_cov_39.282142	AUGUSTUS	gene	32639	33142	0.99	-	.	g4
+NODE_92_length_39131_cov_39.282142	AUGUSTUS	transcript	32639	33142	0.99	-	.	g4.t1
+NODE_92_length_39131_cov_39.282142	AUGUSTUS	stop_codon	32639	32641	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_92_length_39131_cov_39.282142	AUGUSTUS	CDS	32642	33142	0.99	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_92_length_39131_cov_39.282142	AUGUSTUS	start_codon	33140	33142	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_92_length_39131_cov_39.282142	AUGUSTUS	protein_match	32645	32773	7.39	-	0	target "unknown_C[1..43]"; target_start 123; transcript_id "g4.t1"; gene_id "g4";
+NODE_92_length_39131_cov_39.282142	AUGUSTUS	protein_match	32777	32863	8.03	-	0	target "unknown_B[1..29]"; target_start 93; transcript_id "g4.t1"; gene_id "g4";
+NODE_92_length_39131_cov_39.282142	AUGUSTUS	protein_match	32867	33142	7.62	-	0	target "unknown_A[1..92]"; target_start 0; transcript_id "g4.t1"; gene_id "g4";

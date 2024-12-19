@@ -1,0 +1,10 @@
+NODE_77_length_52030_cov_37.366965	AUGUSTUS	gene	33727	34128	1	-	.	g5
+NODE_77_length_52030_cov_37.366965	AUGUSTUS	transcript	33727	34128	1	-	.	g5.t1
+NODE_77_length_52030_cov_37.366965	AUGUSTUS	stop_codon	33727	33729	.	-	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_77_length_52030_cov_37.366965	AUGUSTUS	CDS	33730	34128	1	-	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_77_length_52030_cov_37.366965	AUGUSTUS	start_codon	34126	34128	.	-	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_77_length_52030_cov_37.366965	AUGUSTUS	protein_match	33733	33801	5.93	-	0	target "unknown_F[1..23]"; target_start 109; transcript_id "g5.t1"; gene_id "g5";
+NODE_77_length_52030_cov_37.366965	AUGUSTUS	protein_match	33805	33897	5.26	-	0	target "unknown_E[1..31]"; target_start 77; transcript_id "g5.t1"; gene_id "g5";
+NODE_77_length_52030_cov_37.366965	AUGUSTUS	protein_match	33901	33930	4.8	-	0	target "unknown_D[1..10]"; target_start 66; transcript_id "g5.t1"; gene_id "g5";
+NODE_77_length_52030_cov_37.366965	AUGUSTUS	protein_match	33988	34068	4.48	-	0	target "unknown_C[1..27]"; target_start 20; transcript_id "g5.t1"; gene_id "g5";
+NODE_77_length_52030_cov_37.366965	AUGUSTUS	protein_match	34099	34128	5.43	-	0	target "unknown_A[1..10]"; target_start 0; transcript_id "g5.t1"; gene_id "g5";

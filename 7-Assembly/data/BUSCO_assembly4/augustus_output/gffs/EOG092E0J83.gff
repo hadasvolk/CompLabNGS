@@ -1,0 +1,5 @@
+NODE_67_length_66048_cov_38.081266	AUGUSTUS	gene	48305	49102	1	-	.	g4
+NODE_67_length_66048_cov_38.081266	AUGUSTUS	transcript	48305	49102	1	-	.	g4.t1
+NODE_67_length_66048_cov_38.081266	AUGUSTUS	stop_codon	48305	48307	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_67_length_66048_cov_38.081266	AUGUSTUS	CDS	48308	49102	1	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_67_length_66048_cov_38.081266	AUGUSTUS	start_codon	49100	49102	.	-	0	transcript_id "g4.t1"; gene_id "g4";

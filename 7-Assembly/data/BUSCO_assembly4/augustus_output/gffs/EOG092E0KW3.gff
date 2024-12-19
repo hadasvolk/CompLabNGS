@@ -1,0 +1,7 @@
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	gene	74069	74515	1	+	.	g4
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	transcript	74069	74515	1	+	.	g4.t1
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	start_codon	74069	74071	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	CDS	74069	74512	1	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	stop_codon	74513	74515	.	+	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	protein_match	74198	74230	10.8	+	0	target "unknown_D[1..11]"; target_start 43; transcript_id "g4.t1"; gene_id "g4";
+NODE_9_length_202726_cov_40.339476	AUGUSTUS	protein_match	74234	74503	10.3	+	0	target "unknown_E[1..90]"; target_start 55; transcript_id "g4.t1"; gene_id "g4";

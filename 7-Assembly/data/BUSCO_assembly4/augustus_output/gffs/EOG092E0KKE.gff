@@ -1,0 +1,8 @@
+NODE_6_length_246120_cov_37.254880	AUGUSTUS	gene	202002	202508	1	+	.	g5
+NODE_6_length_246120_cov_37.254880	AUGUSTUS	transcript	202002	202508	1	+	.	g5.t1
+NODE_6_length_246120_cov_37.254880	AUGUSTUS	start_codon	202002	202004	.	+	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_6_length_246120_cov_37.254880	AUGUSTUS	CDS	202002	202505	1	+	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_6_length_246120_cov_37.254880	AUGUSTUS	stop_codon	202506	202508	.	+	0	transcript_id "g5.t1"; gene_id "g5";
+NODE_6_length_246120_cov_37.254880	AUGUSTUS	protein_match	202119	202268	4.98	+	0	target "unknown_A[1..50]"; target_start 39; transcript_id "g5.t1"; gene_id "g5";
+NODE_6_length_246120_cov_37.254880	AUGUSTUS	protein_match	202293	202367	8.02	+	0	target "unknown_B[1..25]"; target_start 97; transcript_id "g5.t1"; gene_id "g5";
+NODE_6_length_246120_cov_37.254880	AUGUSTUS	protein_match	202368	202502	9.26	+	0	target "unknown_C[1..45]"; target_start 122; transcript_id "g5.t1"; gene_id "g5";

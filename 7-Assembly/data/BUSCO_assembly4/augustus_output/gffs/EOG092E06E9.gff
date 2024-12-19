@@ -1,0 +1,5 @@
+NODE_18_length_158840_cov_37.599244	AUGUSTUS	gene	65026	66603	1	-	.	g3
+NODE_18_length_158840_cov_37.599244	AUGUSTUS	transcript	65026	66603	1	-	.	g3.t1
+NODE_18_length_158840_cov_37.599244	AUGUSTUS	stop_codon	65026	65028	.	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_18_length_158840_cov_37.599244	AUGUSTUS	CDS	65029	66603	1	-	0	transcript_id "g3.t1"; gene_id "g3";
+NODE_18_length_158840_cov_37.599244	AUGUSTUS	start_codon	66601	66603	.	-	0	transcript_id "g3.t1"; gene_id "g3";

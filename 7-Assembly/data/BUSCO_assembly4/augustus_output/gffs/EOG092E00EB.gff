@@ -1,0 +1,27 @@
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	gene	186998	191356	0.73	+	.	g2
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	transcript	186998	191356	0.73	+	.	g2.t1
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	start_codon	186998	187000	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	CDS	186998	191353	0.73	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	stop_codon	191354	191356	.	+	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	187088	187162	8.05	+	0	target "unknown_A[1..25]"; target_start 30; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	187283	187333	6.16	+	0	target "unknown_B[1..17]"; target_start 95; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	187766	187816	4.53	+	0	target "unknown_F[1..17]"; target_start 256; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	187817	188113	6.2	+	0	target "unknown_G[1..99]"; target_start 273; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	188171	188668	6.89	+	0	target "unknown_H[1..166]"; target_start 391; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	188681	188812	7.21	+	0	target "unknown_I[1..44]"; target_start 561; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	188828	188893	6.17	+	0	target "unknown_J[1..22]"; target_start 610; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	188909	189340	8.89	+	0	target "unknown_K[1..144]"; target_start 637; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	189359	189397	3.48	+	0	target "unknown_L[1..13]"; target_start 787; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	189443	189571	7.27	+	0	target "unknown_M[1..43]"; target_start 815; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	189707	189781	6.68	+	0	target "unknown_N[1..25]"; target_start 903; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	189791	189943	7.34	+	0	target "unknown_O[1..51]"; target_start 931; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	189965	190066	6.41	+	0	target "unknown_P[1..34]"; target_start 989; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	190067	190153	8.57	+	0	target "unknown_Q[1..29]"; target_start 1023; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	190154	190189	4.12	+	0	target "unknown_R[1..12]"; target_start 1052; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	190205	190276	4.34	+	0	target "unknown_S[1..24]"; target_start 1069; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	190310	190363	5.82	+	0	target "unknown_T[1..18]"; target_start 1104; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	190373	190975	8.81	+	0	target "unknown_U[1..201]"; target_start 1125; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	190976	191152	6.66	+	0	target "unknown_V[1..59]"; target_start 1326; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	191153	191257	4.41	+	0	target "unknown_W[1..35]"; target_start 1385; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	191258	191293	3.43	+	0	target "unknown_X[1..12]"; target_start 1420; transcript_id "g2.t1"; gene_id "g2";
+NODE_4_length_296178_cov_37.378083	AUGUSTUS	protein_match	191303	191338	3.72	+	0	target "unknown_Y[1..12]"; target_start 1435; transcript_id "g2.t1"; gene_id "g2";

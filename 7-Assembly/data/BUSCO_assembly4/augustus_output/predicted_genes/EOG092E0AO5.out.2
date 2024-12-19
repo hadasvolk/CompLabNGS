@@ -1,0 +1,46 @@
+# Please cite: Mario Stanke, Mark Diekhans, Robert Baertsch, David Haussler (2008),
+# Using native and syntenically mapped cDNA alignments to improve de novo gene finding
+# Bioinformatics 24: 637-644, doi 10.1093/bioinformatics/btn013
+# No extrinsic information on sequences given.
+# Initialising the parameters using config directory /groups/itay_mayrose/liorglic/miniconda3/envs/NGS_course/config/ ...
+# Using protein profile unknown
+# --[11..92]--> unknown_A (47) <--[0..4]--> unknown_B (212) <--[0..2]--> unknown_C (98) <--[0..2]--> unknown_D (50) <--[0..0]--
+# saccharomyces_cerevisiae_S288C version. Using default transition matrix.
+# Looks like ./tmp/NODE_176_length_1378_cov_80.703704BUSCO_2182475112_.temp is in fasta format.
+# We have hints for 0 sequences and for 0 of the sequences in the input set.
+#
+# ----- prediction on sequence number 1 (length = 1378, name = NODE_176_length_1378_cov_80.703704) -----
+#
+# Constraints/Hints:
+# (none)
+# Predicted genes for sequence number 1 on both strands
+# start gene g1
+NODE_176_length_1378_cov_80.703704	AUGUSTUS	gene	1	1377	1	+	.	g1
+NODE_176_length_1378_cov_80.703704	AUGUSTUS	transcript	1	1377	1	+	.	g1.t1
+NODE_176_length_1378_cov_80.703704	AUGUSTUS	start_codon	1	3	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+NODE_176_length_1378_cov_80.703704	AUGUSTUS	CDS	1	1374	1	+	0	transcript_id "g1.t1"; gene_id "g1";
+NODE_176_length_1378_cov_80.703704	AUGUSTUS	stop_codon	1375	1377	.	+	0	transcript_id "g1.t1"; gene_id "g1";
+# coding sequence = [atgggtaaagagaagtctcacattaacgttgtcgttatcggtcatgtcgattctggtaagtctaccactaccggtcatt
+# tgatttacaagtgtggtggtattgacaagagaaccatcgaaaagttcgaaaaggaagccgctgaattaggtaagggttctttcaagtacgcttgggtt
+# ttggacaagttaaaggctgaaagagaaagaggtatcactatcgatattgctttgtggaagttcgaaactccaaagtaccaagttaccgttattgatgc
+# tccaggtcacagagatttcatcaagaacatgattactggtacttctcaagctgactgtgctatcttgattattgctggtggtgtcggtgaattcgaag
+# ccggtatctctaaggatggtcaaaccagagaacacgctttgttggctttcaccttgggtgttagacaattgattgttgctgtcaacaagatggactcc
+# gtcaaatgggacgaatccagattccaagaaattgtcaaggaaacctccaactttatcaagaaggttggttacaacccaaagactgttccattcgtccc
+# aatctctggttggaacggtgacaacatgattgaagctaccaccaacgctccatggtacaagggttgggaaaaggaaaccaaggccggtgtcgtcaagg
+# gtaagactttgttggaagccattgacgccattgaacaaccatctagaccaactgacaagccattgagattgccattgcaagatgtttacaagattggt
+# ggtattggtactgtgccagtcggtagagttgaaaccggtgtcatcaagccaggtatggttgttacttttgccccagctggtgttaccactgaagtcaa
+# gtccgttgaaatgcatcacgaacaattggaacaaggtgttccaggtgacaacgttggtttcaacgtcaagaacgtttccgttaaggaaatcagaagag
+# gtaacgtctgtggtgacgctaagaacgatccaccaaagggttgcgcttctttcaacgctaccgtcattgttttgaaccatccaggtcaaatctctgct
+# ggttactctccagttttggattgtcacactgctcacattgcttgtagattcgacgaattgttggaaaagaacgacagaagatctggtaagaagttgga
+# agaccatccaaagttcttgaagtccggtgacgctgctttggtcaagttcgttccatctaagccaatgtgtgttgaagctttcagtgaatacccaccat
+# taggtagattcgctgtcagagacatgagacaaactgtcgctgtcggtgttatcaagtctgttgacaagactgaaaaggccgctaaggttaccaaggct
+# gctcaaaaggctgctaagaaataa]
+# protein sequence = [MGKEKSHINVVVIGHVDSGKSTTTGHLIYKCGGIDKRTIEKFEKEAAELGKGSFKYAWVLDKLKAERERGITIDIALW
+# KFETPKYQVTVIDAPGHRDFIKNMITGTSQADCAILIIAGGVGEFEAGISKDGQTREHALLAFTLGVRQLIVAVNKMDSVKWDESRFQEIVKETSNFI
+# KKVGYNPKTVPFVPISGWNGDNMIEATTNAPWYKGWEKETKAGVVKGKTLLEAIDAIEQPSRPTDKPLRLPLQDVYKIGGIGTVPVGRVETGVIKPGM
+# VVTFAPAGVTTEVKSVEMHHEQLEQGVPGDNVGFNVKNVSVKEIRRGNVCGDAKNDPPKGCASFNATVIVLNHPGQISAGYSPVLDCHTAHIACRFDE
+# LLEKNDRRSGKKLEDHPKFLKSGDAALVKFVPSKPMCVEAFSEYPPLGRFAVRDMRQTVAVGVIKSVDKTEKAAKVTKAAQKAAKK]
+# end gene g1
+###
+# command line:
+# /groups/itay_mayrose/liorglic/miniconda3/envs/NGS_course/bin/augustus --codingseq=1 --proteinprofile=/groups/itay_mayrose/nosnap/liorglic/NGS_course/master/lesson6/saccharomycetales_odb9/prfl/EOG092E0AO5.prfl --predictionStart=0  --predictionEnd=6155  --species=saccharomyces_cerevisiae_S288C ./tmp/NODE_176_length_1378_cov_80.703704BUSCO_2182475112_.temp

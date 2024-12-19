@@ -1,0 +1,19 @@
+LOCUS       NODE_211_length_639_cov_82.070205_1-639   639 bp  DNA
+FEATURES             Location/Qualifiers
+     source          1..639
+     CDS             complement(8..639)
+                     /gene="g1.t1"
+BASE COUNT     192 a   142 c  125 g   180 t
+ORIGIN
+        1 ttagtacaat ctgaaagctg gacccatgga ggacttaaca accaaggaac caacattttg
+       61 ccagttcttc ttcaacaaag aaacaaagaa gttaacagac atcaagattt ggttaaccaa
+      121 aacgtcttct tccatttcaa cgttaccaac ggcaacagcc aaacacaaga ccttcttcaa
+      181 ttggaacttg atggtagatc tgacatcagt gaccttaccg tacaagtcat cgttgtgaga
+      241 aactggggtt gggaacttac cagccttgga caattgagga cccaatagtc ttggaacttg
+      301 cttgatcaaa acttcggaag caatgaaagc gttgtacttc ttagacaact tcttgattaa
+      361 cttcttgttc ttgttcaact tcttcaagtc atcgacggac atagcgtcaa caccgcaaga
+      421 cttagctctg tcaacatcga aagcatcacc gaagatacag atggacatgt ttggtcttgg
+      481 acagtttggc aacttcaaag aaccagagaa acgcttgtct ctttgagggt catagttctt
+      541 caaaccgact tgtagttcga cggtttccaa gaagtttctc ttcttggttt cgttggaata
+      601 cttcaacaat tccttgacgt gttctctgac ttgagaaga
+//

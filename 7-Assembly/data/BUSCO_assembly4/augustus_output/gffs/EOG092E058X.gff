@@ -1,0 +1,5 @@
+NODE_61_length_72850_cov_38.935820	AUGUSTUS	gene	30944	32674	0.97	-	.	g4
+NODE_61_length_72850_cov_38.935820	AUGUSTUS	transcript	30944	32674	0.97	-	.	g4.t1
+NODE_61_length_72850_cov_38.935820	AUGUSTUS	stop_codon	30944	30946	.	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_61_length_72850_cov_38.935820	AUGUSTUS	CDS	30947	32674	0.97	-	0	transcript_id "g4.t1"; gene_id "g4";
+NODE_61_length_72850_cov_38.935820	AUGUSTUS	start_codon	32672	32674	.	-	0	transcript_id "g4.t1"; gene_id "g4";

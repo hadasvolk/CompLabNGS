@@ -1,0 +1,5 @@
+NODE_74_length_61744_cov_36.169576	AUGUSTUS	gene	3001	3645	0.75	-	.	g2
+NODE_74_length_61744_cov_36.169576	AUGUSTUS	transcript	3001	3645	0.75	-	.	g2.t1
+NODE_74_length_61744_cov_36.169576	AUGUSTUS	stop_codon	3001	3003	.	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_74_length_61744_cov_36.169576	AUGUSTUS	CDS	3004	3645	0.75	-	0	transcript_id "g2.t1"; gene_id "g2";
+NODE_74_length_61744_cov_36.169576	AUGUSTUS	start_codon	3643	3645	.	-	0	transcript_id "g2.t1"; gene_id "g2";
