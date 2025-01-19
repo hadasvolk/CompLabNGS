@@ -166,3 +166,7 @@ taungs/
 10-RNA2/tmp/
 10-RNA2/10-RNA2/data/*bam
 10-RNA2/10-RNA2/data/*bai
+10-RNA2/data/solution.ipynb
+10-RNA2/data/counts.tsv
+10-RNA2/data/counts.tsv.summary
+10-RNA2/data/*bam

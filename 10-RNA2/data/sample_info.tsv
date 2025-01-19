@@ -1,7 +1,7 @@
-sample	strain	batch
-RM11_RNA-seq_rep1.bam	RM11	1
-RM11_RNA-seq_rep2.bam	RM11	2
-RM11_RNA-seq_rep3.bam	RM11	3
-S288C_RNA-seq_rep1.bam	S288C	1
-S288C_RNA-seq_rep2.bam	S288C	2
-S288C_RNA-seq_rep3.bam	S288C	3
+sample	condition
+WT1.bam	WT
+WT2.bam	WT
+WT3.bam	WT
+YMR253C2.bam	YMR253C
+YMR253C21.bam	YMR253C
+YMR253C3.bam	YMR253C

@@ -17,10 +17,10 @@ Our main tool in the analysis would be the `DeSeq2` Python package, `PyDESeq`. W
 We will start by creating a count matrix from the `BAM` files. This matrix will be used as input for the differential gene expression analysis. We will use the `featureCounts` tool from the `subread` package to count the number of reads that map to each transcript.
 
 ```bash
-featureCounts -a 8-RNA1/data/S288C_reference_annotation_proc.gtf -o counts.tsv -s 2 -t exon -g transcript_id data/*.bam
+featureCounts -p -a Saccharomyces_cerevisiae.R64-1-1.60.gtf -o counts.tsv -t exon -g transcript_id *.bam
 ```
 
-#### Q1: Why did we use the `-s 2` flag in the `featureCounts` command?
+#### Q1: Why did we use the `-p` flag in the `featureCounts` command?
 
 #### Q2: What is the meaning of the `-t exon` and `-g transcript_id` flags?
 
@@ -52,7 +52,7 @@ Create the sample-to-sample similarity matrix using the `pandas` dataframe. This
 ```python
 import seaborn as sns
 
-sns.clustermap(counts.T.corr())
+sns.clustermap(counts.corr())
 ```
 
 #### Q5: What do you observe in the sample-to-sample similarity matrix? Do samples from the same strain cluster together? How about samples from the same batch?
@@ -66,20 +66,21 @@ Next, you will need to create a `DESeqDataSet` object from the count matrix and 
 ```python
 from pydeseq2.dds import DeseqDataSet
 from pydeseq2.default_inference import DefaultInference
+from pydeseq2.ds import DeseqStats
 
 inference = DefaultInference(n_cpus=8)
 dds = DeseqDataSet(
-    counts=counts,
-    metadata=metadata,
-    design_factors=['batch', 'strain'],
+    counts=counts.T,
+    metadata=sample_info,
+    design_factors=['condition'],
     refit_cooks=True,
     inference=inference
 )
 
 dds.deseq2()
 
-results = DeseqStats(dds, inference=inference)
-print(results.summary())
+ds = DeseqStats(dds, contrast=['condition', 'YMR253C', 'WT'])
+print(ds.summary())
 ```
 
 #### Q6: What is the meaning of each of the columns in the results table?
@@ -91,9 +92,7 @@ print(results.summary())
 To detect differentially expressed genes, we will use 0.01 as padj cutoffs and 1 as  log2FoldChange cutoff. Remember: log2FoldChange = 1 means that expression level was twice as high.
 
 #### Q9: How many DE genes were detected?
-#### Q10: How many were expressed higher in RM11?
-#### Q11: How many were expressed higher in S288C?
-#### Q12: What would be the result of increasing padj_cutoff? How about lfc_cutoff? Explain. (If you are not sure, you can try out different cutoffs)
+#### Q10: What would be the result of increasing padj_cutoff? How about lfc_cutoff? Explain. (If you are not sure, you can try out different cutoffs)
 
 
 
