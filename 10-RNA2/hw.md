@@ -55,9 +55,9 @@ import seaborn as sns
 sns.clustermap(counts.corr())
 ```
 
-#### Q5: What do you observe in the sample-to-sample similarity matrix? Do samples from the same strain cluster together? How about samples from the same batch?
+#### Q5: What do you observe in the sample-to-sample similarity matrix? Do samples from the same strain cluster together?
 
-A file containing the sample information about each of the six is also needed. Namely, from which strain each sample came and in which experiment batch. A simple TSV file was prepared for you, `sample_info.tsv`. Load this file as a `pandas` dataframe as well with sample names as index.
+A file containing the sample information about each of the six is also needed. Namely, from which strain each sample came. A simple TSV file was prepared for you, `sample_info.tsv`. Load this file as a `pandas` dataframe as well with sample names as index.
 
 * Note: make sure the counts dataframe columns names match the sample_info dataframe index.
 
