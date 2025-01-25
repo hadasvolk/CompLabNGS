@@ -24,6 +24,7 @@ Our course is all about hands-on experience with NGS data analysis. You'll need 
 | 8 | 05/01/2025 | RNA-Seq I | [Lecture 8](https://github.com/hadasvolk/CompLabNGS/tree/main/8-RNA1/Lesson8.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/8-RNA1/data) | [Class assignment 7](https://github.com/hadasvolk/CompLabNGS/tree/main/8-RNA1/hw.md) |
 | 9 | 12/01/2025 | Python | [Lecture 9](https://github.com/hadasvolk/CompLabNGS/tree/main/9-Python/Lesson9.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/9-Python/data) | [Class assignment 8](https://github.com/hadasvolk/CompLabNGS/tree/main/9-Python/hw.md) |
 | 10 | 19/01/2025 | RNA-Seq II | [Lecture 10](https://github.com/hadasvolk/CompLabNGS/tree/main/10-RNA2/Lesson10.pdf) | [Data](https://github.com/hadasvolk/CompLabNGS/tree/main/10-RNA2/data) | [Class assignment 9](https://github.com/hadasvolk/CompLabNGS/tree/main/10-RNA2/hw.md) |
+| 11 | 26/01/2025 | Third Generation Sequencing | [Lecture 11](https://github.com/hadasvolk/CompLabNGS/tree/main/11-3rdGS/Lesson11.pdf) | | |
 
 ## Large files
 Some of the files in this repository are large and cannot be viewed directly in the browser. These files are accesible in a Google Drive folder. You can access the folder [here](https://drive.google.com/drive/folders/1N1pYkeFPUOo4_Hv_Jk2MzgzlZ-LLWXSY?usp=sharing)
